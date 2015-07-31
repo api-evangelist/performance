@@ -1,0 +1,47 @@
+[
+	{
+		"id": "1297",
+		"name": "BlazeMeter",
+		"summary": "BlazeMeter is a self-service, load testing platform (PaaS) for developers providing an enterprise grade, out-of-the-box load testing solution. Start testing in under five minutes. BlazeMeter significantly simplifies the load testing process by providing developers easy integration into their native development environment.",
+		"details": "BlazeMeter is a self-service, load testing platform (PaaS) for developers providing an enterprise grade, out-of-the-box load testing solution. Start testing in under five minutes. BlazeMeter significantly simplifies the load testing process by providing developers easy integration into their native development environment.",
+		"website": "http://blazemeter.com/",
+		"twitter": "https://twitter.com/BlazeMeter",
+		"github": "https://github.com/Blazemeter",
+		"blog": "http://blazemeter.com/blog",
+		"blogrss": "http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1297_logo.jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1297_logo.jpg",
+		"tags": null
+	},
+	{
+		"id": "456",
+		"name": "Pingdom",
+		"summary": "Pingdom is a service that tracks the uptime, downtime, and performance of websites.  When problems happen with a site that Pingdom monitors, it immediately alerts the owner so the problem can be taken care of. Pingdom monitors websites from multiple locations globally so that it can distinguish genuine downtime from routing and access problems. ",
+		"details": "Pingdom is a service that tracks the uptime, downtime, and performance of websites.  When problems happen with a site that Pingdom monitors, it immediately alerts the owner so the problem can be taken care of. Pingdom monitors websites from multiple locations globally so that it can distinguish genuine downtime from routing and access problems. ",
+		"website": "http://www.pingdom.com",
+		"twitter": "https://twitter.com/#!/pingdom",
+		"github": "https://github.com/Pingdom",
+		"blog": "http://royal.pingdom.com/",
+		"blogrss": "http://royal.pingdom.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/456_logo.png",
+		"logo_width": "125",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/456_logo.png",
+		"tags": null
+	},
+	{
+		"id": "18847",
+		"name": "Pingometer",
+		"summary": false,
+		"details": "",
+		"website": "https://pingometer.com/",
+		"twitter": "https://twitter.com/pingometer",
+		"github": "https://github.com/pingometer",
+		"blog": "https://pingometer.com/blog/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Pingometer-Full-Logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Pingometer-Full-Logo.png",
+		"tags": null
+	}
+]
