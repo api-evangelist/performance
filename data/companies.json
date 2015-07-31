@@ -32,8 +32,8 @@
 	{
 		"id": "18847",
 		"name": "Pingometer",
-		"summary": false,
-		"details": "",
+		"summary": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. We offer HTTP, HTTPS, RUM, DNS, ICMP, IMAP, POP3, SMTP, TCP, UDP, and Transaction monitors. We have locations in Australia, Brazil, France, Germany, Luxembourg, Japan, the Netherlands, South Africa, the United Kingdom, and the United States.",
+		"details": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. We offer HTTP, HTTPS, RUM, DNS, ICMP, IMAP, POP3, SMTP, TCP, UDP, and Transaction monitors. We have locations in Australia, Brazil, France, Germany, Luxembourg, Japan, the Netherlands, South Africa, the United Kingdom, and the United States.",
 		"website": "https://pingometer.com/",
 		"twitter": "https://twitter.com/pingometer",
 		"github": "https://github.com/pingometer",
