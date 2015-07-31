@@ -15,6 +15,51 @@
 		"tags": null
 	},
 	{
+		"id": "18849",
+		"name": "Load Impact",
+		"summary": "Load Impact is an online load testing service for websites, web apps, mobile apps and APIs. The service allows users to run load tests over the Internet, rather than having to set up their own load testing infrastructure to run tests. Tests are easily repeatable, with minimum preparation required, which also makes the service a good development/optimization tool.",
+		"details": "Load Impact is an online load testing service for websites, web apps, mobile apps and APIs. The service allows users to run load tests over the Internet, rather than having to set up their own load testing infrastructure to run tests. Tests are easily repeatable, with minimum preparation required, which also makes the service a good development/optimization tool.",
+		"website": "https://loadimpact.com/",
+		"twitter": "https://twitter.com/loadimpact",
+		"github": "https://github.com/loadimpact",
+		"blog": "http://blog.loadimpact.com/",
+		"blogrss": "http://blog.loadimpact.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png",
+		"tags": null
+	},
+	{
+		"id": "222",
+		"name": "loader.io",
+		"summary": "Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections. We were born out of SendGrid Labs which is a new and growing internal effort at SendGrid. Born in late 2012, SendGrid Labs builds tools and services to help developers focus on their core business. We aim to provide creative and innovative solutions to common develop",
+		"details": "Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections. We were born out of SendGrid Labs which is a new and growing internal effort at SendGrid. Born in late 2012, SendGrid Labs builds tools and services to help developers focus on their core business. We aim to provide creative and innovative solutions to common developer pain points, to make their lives easier, and to help them scale.",
+		"website": "https://loader.io/",
+		"twitter": "https://twitter.com/loaderio",
+		"github": "",
+		"blog": "http://blog.loader.io/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png",
+		"tags": null
+	},
+	{
+		"id": "18901",
+		"name": "LoadFocus",
+		"summary": "Load test with thousands of concurrent users. Monitor website uptime and perfomance. Measure website speed and get insights. Run load tests in the Cloud and stress your API with up to 50,000 concurrent users. Inspect results to optimise and improve performance.",
+		"details": "Load test with thousands of concurrent users. Monitor website uptime and perfomance. Measure website speed and get insights. Run load tests in the Cloud and stress your API with up to 50,000 concurrent users. Inspect results to optimise and improve performance.",
+		"website": "https://loadfocus.com/",
+		"twitter": "",
+		"github": "",
+		"blog": "http://loadfocus.com/blog/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png",
+		"tags": null
+	},
+	{
 		"id": "456",
 		"name": "Pingdom",
 		"summary": "Pingdom is a service that tracks the uptime, downtime, and performance of websites.  When problems happen with a site that Pingdom monitors, it immediately alerts the owner so the problem can be taken care of. Pingdom monitors websites from multiple locations globally so that it can distinguish genuine downtime from routing and access problems. ",
@@ -42,6 +87,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Pingometer-Full-Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Pingometer-Full-Logo.png",
+		"tags": null
+	},
+	{
+		"id": "1157",
+		"name": "SmartBear Software",
+		"summary": "SmartBear Software provides tools for over 100,000 software professionals to build, test, and monitor some of the best software applications and websites anywhere on the desktop, mobile and in the cloud.",
+		"details": "SmartBear Software provides tools for over 100,000 software professionals to build, test, and monitor some of the best software applications and websites anywhere on the desktop, mobile and in the cloud.",
+		"website": "http://smartbear.com/",
+		"twitter": "https://twitter.com/smartbear",
+		"github": "https://github.com/SmartBear",
+		"blog": "http://blog.smartbear.com/",
+		"blogrss": "http://feeds.feedburner.com/smartbear",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png",
 		"tags": null
 	}
 ]
