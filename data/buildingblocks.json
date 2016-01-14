@@ -47,7 +47,7 @@
 		"building_block_id": "uvbhABfaYdKBbqO3mkvzZdYvVQGbp93XiGkvCUn6UcpJcqiM2xeSDgMbPDh123REFjMURFKqdE003YQRf2OKzUvw117117",
 		"building_block_category_id": "b2M116N8vc3eDBG2SMhAnCf6gtHRKapqkfGUYq6q31FQ116kcEAWZzq7fqBoISyoGXwfiLMdwj4116ZiODVqJ7GByOzw117117",
 		"name": "Request Editor",
-		"about": "<p>Being able to edit the request being made.</p>",
+		"about": "Being able to edit the request being made.",
 		"category_id": "182",
 		"category": "Core Performance",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png",
