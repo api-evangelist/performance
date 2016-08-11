@@ -14,9 +14,9 @@
 		"base_url": "https://developer.akamai.com/",
 		"blog": "https://blogs.akamai.com",
 		"blogrss": "http://blogs.akamai.com/feeds.html",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png",
 		"tags": [
 			"Security",
 			"Performance",
@@ -67,9 +67,9 @@
 		"base_url": "",
 		"blog": "http://blazemeter.com/blog",
 		"blogrss": "http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blaze_meter.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blaze_meter.png",
 		"tags": [
 			"Testing-Stack",
 			"Testing",
@@ -92,9 +92,9 @@
 		"base_url": "http://www.catchpoint.com/monitoring-solutions/developers/",
 		"blog": "http://blog.catchpoint.com",
 		"blogrss": "http://blog.catchpoint.com/feed/",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catchpoint-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catchpoint-logo.png",
 		"tags": [
 			"Performance",
 			"Enterprise"
