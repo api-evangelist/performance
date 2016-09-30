@@ -1,5 +1,125 @@
 [
 	{
+		"curated_id": "cI7gBfZRQrylKEnSbsXN7HVMoyI4XQEdXR9bp116wBaxLJeQgEZNRz6YbXoZxlNfcrMwi8wcDQTeskHrJxMRTrNQ117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "APIs Are Not Web Pages",
+		"url": "https://devcentral.f5.com/articles/apis-are-not-web-pages-21799",
+		"domain": "devcentral.f5.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BhQAAHqBvcUXPiQ8ILOJXmrNDhPnGdl116uAWaX100Kz3BncshbLRAeZShm123ZVBVuBA7hE8UO3AgN2iOZX6hilBg117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Twilio Launches Voice Insights API to Monitor WebRTC Performance",
+		"url": "http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nNL9a3rZffg63VsiCz3o9VWz116T123OkvDYI5qp7yI1Wd0lgHKjfrQm123xtQkqO116Kp94eEsYTiDsnceLlacoV3ZmgQ117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "CA Technologies buys BlazeMeter",
+		"url": "http://www.zdnet.com/article/ca-technologies-buys-blazemeter/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j0LOD4123pG3rKY7Eo0ioWXfnNHmAptBWeN5116i7ZDvqHgtFxskM1razNZJeQ9eGV24XXoqZKHUslsvn3t7lE6PcA117117",
+		"item_date": "2016-09-21 09:15:15",
+		"title": "Is TLS Fast Yet",
+		"url": "https://istlsfastyet.com/",
+		"domain": "istlsfastyet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hVUXScZTVBBKasTQOdmSplTwkCsquoL116R8VqkvOtHDuTpSCJQlDv116123Di9qrzxmLO9c1235uP9nxUOgQ0BUWrsyXA117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Tuning NGINX",
+		"url": "https://blog.codeship.com/tuning-nginx/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kISL38ByGEpoR3YPGCsJKr3NFUCPMZ94rJEnRphCmn2s4mg123kZA1hIm9UVbk5GpAe69D4YRHWDshX116116mvEB4Gg117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "AWS Load Testing Project Questions",
+		"url": "https://www.apicasystem.com/blog/aws-load-testing-project-questions/",
+		"domain": "www.apicasystem.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jiraHLU2GWp116s9uowG1Wi4Q9WA116rPl7T0123pPjnpaz43Hc1O4BLZ8Kjcb9dN8G2z7116rKxh7A7N0wMPFO7ZxHxZg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "PHP 7 doubles performance for DreamFactory",
+		"url": "http://blog.dreamfactory.com/php-7-doubles-performance-for-dreamfactory",
+		"domain": "blog.dreamfactory.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123116dbZfJZ9EoYWRrs1168bQMkGR73kgUv7cDtwF4LFFATFagp3yHqKstJA7116RapCVIcVPw4Le8uMpyVX9WBtOm123rg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Dont Underutilize These 5 Amazing HTTP Performance Features",
+		"url": "http://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SJaCnx9GnjphhMltwuvZUA2nBcYqh116PD2iyq9rTk3nd6L0pHHJRwzpGQAREeqHQommalvWhBmnnpizo9RkdR7g117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "New Reader Endpoint for Amazon Aurora  Load Balancing  Higher Availability",
+		"url": "https://aws.amazon.com/blogs/aws/new-reader-endpoint-for-amazon-aurora-load-balancing-higher-availability/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UtmkT9bTcZwFeVvocaoI5FPsAu9WasUl9k0VFO3syNXz208PBN146116NuOvNRzIJm116DSXKGFvmBs6JIJSGwjjuA117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "What is Performance Testing and Types of Performance Testing",
+		"url": "https://dzone.com/articles/what-is-performance-testing-and-types-of-performan",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CTybmtJQ904OankGOVWOFKAe2HJMuwOZ123PPlfbqLc116SHMmlsDEZR123AYlqZ2aWPj3vHvTqlvxU3pQag3ixDcnmw117117",
+		"item_date": "2016-09-02 09:00:06",
+		"title": "Take your domains performance to the next level Learn about these  reccomended PageRules",
+		"url": "https://www.cloudflare.com/features-page-rules/optimize-speed/",
+		"domain": "www.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uCBCz3T0apvIPuYi4tdUeukgFTBje71hR123Cd1230MatiBuSxCD99e41eITQBhDpfUbVt4hzmMh0fZiPmgYXeciEQ117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Measure Cloud Performance Like A Customer",
+		"url": "http://dyn.com/blog/measure-cloud-performance-like-a-customer/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GcYxW7TFT8e522JQ8GwSpMD8j0116GDXVdgXqXirvNjX123euTcCRZtZckI55CsDq3v11162ZMX4XdEfGB13zDH6BysQ117117",
+		"item_date": "2016-08-23 00:00:00",
+		"title": "Load Testing Reflections Final Notes on Scaling Capacity Planning and Bottlenecks",
+		"url": "https://www.apicasystem.com/blog/load-testing-reflections-final-notes-on-scaling-capacity-planning-and-bottlenecks/",
+		"domain": "www.apicasystem.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1167f6E3LPwtL3JLmxCy2J8T006QTy6ijjavdsPIJLN5msSMOc116OCPwgr116yX9uuiRfxS4YTiKVcxFAqXbzJNEp116w117117",
+		"item_date": "2016-08-23 00:00:00",
+		"title": "Top Most Overlooked MySQL Performance Optimizations Part I",
+		"url": "https://dzone.com/articles/top-most-overlooked-mysql-performance-optimization",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VzGYTJulX802fpyzfZOC116oqNjASFY8Y7qxqKohZumUdm7IiTJQUWUD11644wazQQBnbjYrMXzWFmhpWrk3OBasnw117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Arrow Builder API Server Sizing using Load Testing",
+		"url": "https://www.appcelerator.com/blog/2016/08/arrow-builder-api-server-sizing-using-load-testing/",
+		"domain": "www.appcelerator.com",
+		"image": ""
+	},
+	{
 		"curated_id": "q2m5bcXSdDfcY123N7KPw8ufRLFUICpPzSzQ44U116wCngZyfzyN70zaNBp0yivwvWnNzOzyIylVlkZBoFfAG3LJtA117117",
 		"item_date": "2016-08-03 00:00:00",
 		"title": "Googles Accelerated Mobile Pages project spreads to more of the web",
