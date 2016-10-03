@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "Ez4JhmtF7huV3zTsa8j1xtmOiwKqvdb02MJAHKpMkp0lO18IQcSbEGqzQhSV9adZWD1bVFnHNwnvx87VHDWeyw117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Performance Impact of Third Party Components",
+		"url": "https://dzone.com/articles/performance-impact-of-third-party-components",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hjn116J123bhlHF12326B2XSTd4q6k123b2O9YXcNjiqQLmt0e3rB9MLypuT516uRYZbwwppIjWYmTnImDxG116OGxUZ3OUw117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Stay on Offense With a Proactive Network Performance Management Strategy",
+		"url": "https://dzone.com/articles/stay-on-offense-with-a-proactive-network-performan?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jdbsyGx61P123GyM4HNsYWL2M116Ham7FLQA3YNSieRpd6Cme35WdsO3vIvWVZfjSM116Kyyd2tyLF6RnORDnRC2oiBA117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Load Testing Published APIs With JMeter",
+		"url": "https://dzone.com/articles/load-testing-published-apis-with-jmeter",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cIRQzGqVFdfaLlCdjb2VpbDoaDCGbFc5TMWiEZ123fajv8R123dIJggHbrDXCg7116q123EezgVdMx7Ciob8f3oVhtSTug117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "The Wild West Of Performance Measurement Using Data To Ensure Optimal Vendor Selection",
+		"url": "http://dyn.com/blog/the-wild-west-of-performance-measurement-using-data-to-ensure-optimal-vendor-selection/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "cI7gBfZRQrylKEnSbsXN7HVMoyI4XQEdXR9bp116wBaxLJeQgEZNRz6YbXoZxlNfcrMwi8wcDQTeskHrJxMRTrNQ117117",
 		"item_date": "2016-09-23 00:00:00",
 		"title": "APIs Are Not Web Pages",
