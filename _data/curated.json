@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "sd6q71161VILwMOr2h1168tpVus61XcM7LtocPyFsJaW4IkO6B1qHsJtMg123lHH3bDq9pKrWvcsEJJ116isUmbyxCpkPg117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Pregenerating Static Web Pages for Better Performance",
+		"url": "https://blog.codeship.com/pregenerating-static-web-pages-for-better-performance/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "epqi0KKLTw4JTNsvQKGpDY7bB9TKSs7GDkInrQbL0Emq9E59ew123Slb66dqWUeMzoxfdVHyuDrazAjxtjI9k90A117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Thoughts on the Right Configuration and Strategy for Load Testing Gatling",
