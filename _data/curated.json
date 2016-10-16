@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ci1Xoz2sQ3gWMnInF1VXRo2f52DwfF7m4123t7UD3U3kWdcjyGbavxv0pGkOeZ4lq5Ep9vk9ynD9u6u8isJhBmAw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Caching for Faster APIs",
+		"url": "https://dzone.com/articles/caching-for-faster-apis?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WADoxqfX1236btrFMbh4ETwAgsdqKP1Cgac5FilcrTqrNU5LHjNfFkVDsDaFz663lsMcWQmCsTBNUaekXAmnIjEg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "LEGOs and modern network performance monitoring",
+		"url": "http://blogs.ca.com/2016/10/12/legos-modern-network-performance-monitoring/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5y116LBatU5DgDWgKar1RasW8z5L0MzaYrCVGwgROvuEbLuttzED123wiUfMOghy9CDLgg7qkfjSL123vPIaJAguGaYQ117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "IoTs Achilles Heel API Call Performance",
