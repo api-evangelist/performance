@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "9NygqWXvWMqLsBd116fevspupmBYmCL3ZyzPe0QkfxIgMaC9BpfydHTP123evbxA73amoFIhXbHcdFYFl31C4Kd5xA117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Using an Arrow API Mockup to Remove Development Bottlenecks",
+		"url": "https://www.appcelerator.com/blog/2016/10/arrow-api-mockup-2/",
+		"domain": "www.appcelerator.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xmJPhkRfecNvqaEgyJYoK116lo1xgjHCIYe34WRHW5jkNw2cek3ZR4CiHvFBicgdUH6ubwZG116XqxnPJBNK116123I7dg117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Reinventing Performance Testing Continuous Integration",
+		"url": "https://dzone.com/articles/reinventing-performance-testing-continuous-integra",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dv4HN123u116Z3P18YCtO1syCugTgsjQj7kMLeI2fc123YOsHHnM116116EMeu1n0ljTb5ohik3qXFIq9o7EyTebhu3vxK5Q117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "Restsharp Vs HttpClient Performance Benchmark",
+		"url": "http://www.codeproject.com/Articles/1144114/Restsharp-Vs-HttpClient-Performance-Benchmark",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cWyvEVh1162HIleeQx75ib5dodUbJkHAPmoIQK116qymKiTpMEHAbeYb03X76YIoEq16AuWTwDXTnVRE6tJNFfh1164Q117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "MySQL 57 Performance Tuning Immediately After Installation",
+		"url": "https://dzone.com/articles/mysql-57-performance-tuning-immediately-after-inst",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ci1Xoz2sQ3gWMnInF1VXRo2f52DwfF7m4123t7UD3U3kWdcjyGbavxv0pGkOeZ4lq5Ep9vk9ynD9u6u8isJhBmAw117117",
 		"item_date": "2016-10-14 00:00:00",
 		"title": "Caching for Faster APIs",
