@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "s9FyzdTOVTD2VIGZlqugEMHNflFFAD43Yh1XvrTDhGtFXCzGJymZzxdt7Qngacq3AZymn5MLSoS9yIaXZQVHoQ117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Lloyds Bank Experiences Performance Issues for Over Two Days",
+		"url": "http://blog.catchpoint.com/2017/01/13/lloyds-bank-experiences-performance-issues-two-days/",
+		"domain": "blog.catchpoint.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6mmqZA6K2yeKu8pw116Xkm21231DI1SSKlPgvflqtCdA66CWHXiflPl9123ZlTMMzLK2qGVX0k711685gKBOs123kQlItd4w117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Concerns About Performance and Monitoring",
+		"url": "https://dzone.com/articles/concerns-about-performance-and-monitoring",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OPdl50123XpnZ0Cl95a6d1pY17x4ZQFdWYnf4r05JatEm1232c8iMLVd9yiR20miWCfIgKbsMMdyO4116z8suDfCcVfw117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "Compute Performance Improvements  Magic of Caching",
+		"url": "http://keenio.tumblr.com/post/155772589226/compute-performance-improvements-magic-of#_=_",
+		"domain": "keenio.tumblr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UuhwcT8BRsBJHksGU2cJgqKE5INn2sjp116Zp116kcEMTu1160DEKMRiaoX3s7FpsIhPf1O0SxsAsTyRPFv6kqOJV8aQ117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Performance Predictions for 2017",
+		"url": "http://blog.catchpoint.com/2017/01/11/performance-predictions-2017/",
+		"domain": "blog.catchpoint.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kUjzZWg8CuldwD4NZhbGTttSRs9MPL5ZINlBOBYiEGXEq0EaIE116UkUYtfZRnfFwDDTzZaI474TKdxhqGRo57Ag117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Three key metrics for monitoring AWS SNS performance and usage",
+		"url": "http://blogs.site24x7.com/2017/01/11/monitor-aws-sns-topic-metrics/",
+		"domain": "blogs.site24x7.com",
+		"image": ""
+	},
+	{
 		"curated_id": "kbM23pC6wlaEfCO9qJUSvOvn116116s4tXJ8pl6fVwfiFGF7oOuaJ89dg2ITSZhJvbBQ2vrdu6g4ZzTOgcUChfzaDQ117117",
 		"item_date": "2017-01-05 00:00:00",
 		"title": "Tuning PostgreSQL with pgbench",
