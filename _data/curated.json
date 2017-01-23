@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "1235s4LkjR3ffLTTHmzUgn116rB4WaNSUnzfKM7kX2emv3dr7NPXFe4cMpCRkRlO4QT2O4QUuRBt1164wpgsXmpqCrow117117",
+		"item_date": "2017-01-21 00:00:00",
+		"title": "Improving Azure SQL Database Performance using InMemory Technologies",
+		"url": "https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "t4o4UqAzLxKzI6f3VsDWZcErpbE8LMEV0ROG6sVNIcMCo0UMYQTtaDAZjarye68MDRAsScpg123awPpXbatwxOPw117117",
+		"item_date": "2017-01-21 00:00:00",
+		"title": "17 Essential Skills for Growing Performance Engineers",
+		"url": "https://dzone.com/articles/17-essential-skills-for-growing-performance-engine?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "s9FyzdTOVTD2VIGZlqugEMHNflFFAD43Yh1XvrTDhGtFXCzGJymZzxdt7Qngacq3AZymn5MLSoS9yIaXZQVHoQ117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Lloyds Bank Experiences Performance Issues for Over Two Days",
