@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "ahZSPooqP0GgGGHeHK116bATwKa0bg3QYQqUbliFwwN6pUioAwATkEDRNMwvkswNn2wMoRXNKAW9HpZ92HXGSpAw117117",
+		"item_date": "2017-02-02 00:00:00",
+		"title": "The infrastructure behind Twitter efficiency and optimization",
+		"url": "https://blog.twitter.com/fr/node/8232",
+		"domain": "blog.twitter.com",
+		"image": ""
+	},
+	{
 		"curated_id": "1235s4LkjR3ffLTTHmzUgn116rB4WaNSUnzfKM7kX2emv3dr7NPXFe4cMpCRkRlO4QT2O4QUuRBt1164wpgsXmpqCrow117117",
 		"item_date": "2017-01-21 00:00:00",
 		"title": "Improving Azure SQL Database Performance using InMemory Technologies",
