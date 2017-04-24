@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "uFprTqPENa12328pkIXyhgzmFPugLxI5CEBMzzPpiNHX116HnV116h0Y6oDw0V1HWsMa4f123kEmOqpUsUCXANtFHekuRA117117",
+		"item_date": "2017-04-22 00:00:00",
+		"title": "Load Balancing Versus Application Routing",
+		"url": "https://dzone.com/articles/load-balancing-versus-application-routing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XKM9JoR5psqs123HH972e8ZVcINmmEtcuSu116LkJN2cRVQAgXSlZDrI2EL84A1sxDlDtGS76XZoxHZeLrfJmyrIAA117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "How to Configure HAProxy as a Proxy and Load Balancer",
