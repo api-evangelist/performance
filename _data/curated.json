@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "Wcnj9eUIUmopMqvCzmYQdZAYSX9QK3hDLmruydeVcXhQk8fkMu5B41CFmO383saQWoZn7hDorUkAr9fjC7Rybg117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Latency The Myths  Realities Part 2",
+		"url": "http://www.avnetwork.com/avtechnology/latency-the-myths--realities-part-2/126262",
+		"domain": "www.avnetwork.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RRosh2dakRvEfUSLst0cD1mqG1y123MHvEo4X9116xIBP7116ipJAQ7A0AoyaX8mnGeoF11689u60FdmJWMVpTfrCjrmzg117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Google Retires Octane JavaScript Benchmark",
+		"url": "https://www.infoq.com/news/2017/04/octane-benchmark-retired",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "drWoJN0PKccMe2Yhq50tDcqwTvmHEhqgIb38jaA5rlwINKXrYHViri0KnN8XZSzzwo9123fE8XNaPfjIVwM1NRbw117117",
+		"item_date": "2017-04-27 12:47:45",
+		"title": "gRPCWeb Moving past RESTJSON towards typesafe Web APIs",
+		"url": "https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis",
+		"domain": "spatialos.improbable.io",
+		"image": ""
+	},
+	{
+		"curated_id": "h5Da6wE0WFp116ajQOu123feOhmXn116l77jLz123vesxzaZGD1drBdDwyje9qMyULW0vRhR7LK1e9tdFau6qu95GYfVtA117117",
+		"item_date": "2017-04-27 12:48:12",
+		"title": "GraphQL APIs and Performace",
+		"url": "https://brandur.org/fragments/graphql-performance",
+		"domain": "brandur.org",
+		"image": ""
+	},
+	{
 		"curated_id": "czQzxmlFk0Tb123cz123GpIfjxWCFBXLzrTQp4116C5bf6123Bysaqwv1GLbSJGZo6V123bRoRqhpzNk4it6HsOIbqzgJejA117117",
 		"item_date": "2017-04-19 00:00:00",
 		"title": "Oracle Dyn Provides ICANN With Access To Internet Performance Data",
