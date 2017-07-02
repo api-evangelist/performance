@@ -5,4 +5,1027 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
+- curated_id: a077c9b97c075fd5fffa0daa68ef17b7
+  item_date: "2015-03-23 11:55:39"
+  title: With APIs Replacing Middle   Management, How is Their   Performance Measured?
+  url: http://api.report/2015/03/23/with-apis-replacing-middle---management-how-is-their---performance-measured/
+  domain: api.report
+  image: ""
+- curated_id: 47923d0f99ed9f75a8e13af0354c432b
+  item_date: "2015-03-25 00:00:00"
+  title: Performance Monitoring Will Need to Join the Crowd
+  url: http://blog.smartbear.com/web-performance/performance-monitoring-join-the-crowd/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 1d2fcef8cef449afd6429e2242c76764
+  item_date: "2015-03-26 00:00:00"
+  title: Performance Issue Considerations for Microservices APIs
+  url: http://blog.smartbear.com/apm/performance-issue-considerations-for-microservices-apis/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: c3ab13db1198145159b5aefd4c25abfb
+  item_date: "2015-03-30 00:00:00"
+  title: Improving API performance with APISpark server-side cache
+  url: http://restlet.com/blog/2015/03/30/improving-api-performance-with-apispark-server-side-cache/
+  domain: restlet.com
+  image: ""
+- curated_id: 933e0881d00612b055e915962fef8c07
+  item_date: "2015-04-08 00:00:00"
+  title: 'Introducing Vector: Netflixs On-Host Performance Monitoring Tool'
+  url: http://techblog.netflix.com/2015/04/introducing-vector-netflixs-on-host.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 3ae9f3c9e7ee66df4551fd5296eededa
+  item_date: "2015-04-09 00:00:00"
+  title: The Internet Performance Market is Smoking Hot
+  url: http://dyn.com/blog/the-internet-performance-market-is-smoking-hot/
+  domain: dyn.com
+  image: ""
+- curated_id: 1b79b7f686be17f4bc6e82fda3ab0943
+  item_date: "2015-04-11 00:00:00"
+  title: How Guardian Eliminated An API Performance Issue
+  url: http://www.programmableweb.com/news/how-guardian-eliminated-api-performance-issue/elsewhere-web/2015/04/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 78005e0eae8729ef7186bd926120b0e8
+  item_date: "2015-04-14 00:00:00"
+  title: Dyn Launches Internet Alerts for Unprecedented Visibility Into Fundamental
+    Internet Performance Issues
+  url: https://aws.amazon.com/blogs/aws/aws-week-in-review-april-6-2015/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 62bca9a5ac50556468d4c847cd1a4f49
+  item_date: "2015-04-17 16:43:43"
+  title: 'The Cloudcast #187 - API Performance Monitoring'
+  url: http://www.thecloudnetwork.net/content/cloudcast-187-api-performance-monitoring
+  domain: www.thecloudnetwork.net
+  image: ""
+- curated_id: 9265a60cd122e88ed70c7e9e96397b11
+  item_date: "2015-04-20 00:00:00"
+  title: Regional Cloud API Test Locations and Cloud Performance
+  url: http://apimetrics.io/2015/04/20/regional-cloud-api-test-locations-cloud-performance/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 23634335cd08cf4ab83b5bb409881f83
+  item_date: "2015-05-01 00:00:00"
+  title: 'Reporting Just Got Automated: Save Time with the New Daily API Performance
+    Report'
+  url: http://blog.runscope.com/posts/api-performance-report
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 0a46b6ba3f3a212bc5b45a63aa6c9cf6
+  item_date: "2015-05-13 00:00:00"
+  title: Performance Measurement QA with Steve Goldsmith
+  url: http://www.socrata.com/blog/performance-measurement-qa-with-steve-goldsmith/
+  domain: www.socrata.com
+  image: ""
+- curated_id: 1d62dc6ebee98383d394fb4d7d13bdc6
+  item_date: "2015-05-13 00:00:00"
+  title: 'Performance Measurement: The New Norm'
+  url: http://www.socrata.com/blog/performance-measurement-the-new-norm-2/
+  domain: www.socrata.com
+  image: ""
+- curated_id: 7a66b4a8f4dc2e3732c2129e374a2628
+  item_date: "2015-05-18 00:00:00"
+  title: API Performance Monitoring for the API Economy
+  url: http://apimetrics.io/2015/05/18/api-performance-monitoring-api-economy/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 8be2d1ac60d599104e5a466939f6ad9f
+  item_date: "2015-05-22 00:00:00"
+  title: 'Crash Avoidance: Stay Ahead of API Problems with API Performance Metrics
+    and Reports'
+  url: http://blog.runscope.com/posts/crash-avoidance-stay-ahead-of-api-problems-with-api-performance-metrics
+  domain: blog.runscope.com
+  image: ""
+- curated_id: e23d282d282b495906992180f575e68c
+  item_date: "2015-05-22 11:29:04"
+  title: Load and Performance Testing in Production
+  url: http://resources.sdtimes.com/whitepaper-neotys-testing-in-production
+  domain: resources.sdtimes.com
+  image: ""
+- curated_id: 3dcec59a7c8385c8ddb5120dcf64ccb6
+  item_date: "2015-05-27 00:00:00"
+  title: Delicious slowness and upgrades
+  url: http://blog.delicious.com/2015/05/delicious-slowness-and-upgrades/
+  domain: blog.delicious.com
+  image: ""
+- curated_id: ebcb36e469d7f7d095b23f9c27e8ffd1
+  item_date: "2015-05-28 00:00:00"
+  title: Couchbase Server Hits One Million Writes Per Second with Just 50 Nodes of
+    Google Compute Engine
+  url: http://googlecloudplatform.blogspot.com/2015/05/Couchbase-Server-Hits-One-Million-Writes-Per-Second-with-Just-50-Nodes-of-Google-Compute-Engine.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: f051430682b22f8b023f79557349659c
+  item_date: "2015-05-29 00:00:00"
+  title: 'Improve API Quality: Don?t Forget the GUI'
+  url: http://blog.smartbear.com/api-testing/improve-api-quality-dont-forget-the-gui/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 7f5bb5c261037ffd2e41e9bcd9f7cf67
+  item_date: "2015-06-03 00:00:00"
+  title: IoT API Startup Crowsnest to Offer Crash Analytics Service
+  url: http://www.programmableweb.com/news/iot-api-startup-crowsnest-to-offer-crash-analytics-service/2015/06/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0f6b053ca130d6e56cdfcb8e3d9e4e80
+  item_date: "2015-06-05 00:00:00"
+  title: 'Improve API Quality: Don?t Forget the GUI'
+  url: http://www.virtualizationconference.com/node/3338100
+  domain: www.virtualizationconference.com
+  image: ""
+- curated_id: 06fb44e7ca93fbc0436a5d361b12b657
+  item_date: "2015-06-12 00:00:00"
+  title: How NGINX Achieves Performance and Scalability
+  url: https://www.infoq.com/news/2015/06/nginx-design-performance-scale-
+  domain: www.infoq.com
+  image: ""
+- curated_id: 404897d514f66fc1e69ab91ac0cacd6e
+  item_date: "2015-06-13 00:00:00"
+  title: Building Failure as a Service at Netflix without the Simian Army
+  url: http://www.infoq.com/news/2015/06/netflix-failure-service
+  domain: www.infoq.com
+  image: ""
+- curated_id: 4eece316c684b9863dd98f456c1e4e1d
+  item_date: "2015-06-18 00:00:00"
+  title: ROI of Internet Performance
+  url: http://dyn.com/blog/roi-of-internet-performance/
+  domain: dyn.com
+  image: ""
+- curated_id: 3877cfba4095b8773997013424287db3
+  item_date: "2015-06-19 00:00:00"
+  title: Code Climate open-sources its code-testing tools, launches a command-line
+    interface
+  url: http://venturebeat.com/2015/06/19/code-climate-open-sources-its-code-testing-tools-launches-a-command-line-interface/
+  domain: venturebeat.com
+  image: ""
+- curated_id: a80a42e3ff501749279e7a218bd401bd
+  item_date: "2015-06-19 00:00:00"
+  title: Parse Got a Tenfold Reliability Improvement Moving from Ruby to Go
+  url: http://www.infoq.com/news/2015/06/parse-moved-ruby-go
+  domain: www.infoq.com
+  image: ""
+- curated_id: d63b1f660c554994d196b8e3c1bc28ca
+  item_date: "2015-06-21 00:00:00"
+  title: 'Article: Probabilistic Project Planning Using Little?s Law'
+  url: http://www.infoq.com/articles/probabilistic-project-planning
+  domain: www.infoq.com
+  image: ""
+- curated_id: cbca4ae05672deec8a203104da7ee2b2
+  item_date: "2015-06-30 00:00:00"
+  title: 'Distributed Load Testing Using Kubernetes '
+  url: http://googlecloudplatform.blogspot.com/2015/06/Distributed-Load-Testing-Using-Kubernetes.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 0753b183c49b2eb2e541e3a7f72997d1
+  item_date: "2015-07-07 00:00:00"
+  title: Auto Scaling Update ? New Scaling Policies for More Responsive Scaling
+  url: https://aws.amazon.com/blogs/aws/auto-scaling-update-new-scaling-policies-for-more-responsive-scaling/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: b6039f2616a123c65e29d6d4b797bdd1
+  item_date: "2015-07-08 00:00:00"
+  title: Sharpening Your Application Performance Skills
+  url: http://royal.pingdom.com/2015/07/08/sharpening-your-application-performance-skills/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: bab1ac761e90d3a8a611c2f48c11bf8e
+  item_date: "2015-08-21 00:00:00"
+  title: Monitoring Performance with Multiple Datacenters and Dynamic DNS
+  url: http://royal.pingdom.com/2015/08/21/monitoring-performance-with-multiple-datacenters-and-dynamic-dns/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 9018cd81e66e26aeb964afec1b282561
+  item_date: "2015-08-28 14:00:01"
+  title: Mobile Application Performance Monitoring (MAPM)
+  url: http://www.business2community.com/mobile-apps/mobile-application-performance-monitoring-mapm-01310703
+  domain: www.business2community.com
+  image: ""
+- curated_id: 30bd3b8cd66c108905ccfec5e071f0d9
+  item_date: "2015-09-03 00:00:00"
+  title: How Smart Are Your Performance Alerts?
+  url: http://blog.smartbear.com/alertsite/how-smart-are-your-performance-alerts/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 0c6c828ff61559b956d3088ff36fcbcf
+  item_date: "2015-10-21 00:00:00"
+  title: 'Floating IPs: Start Architecting Your Applications for High Availability'
+  url: https://www.digitalocean.com/company/blog/floating-ips-start-architecting-your-applications-for-high-availability/
+  domain: www.digitalocean.com
+  image: ""
+- curated_id: 36fddb6a68a1740cc0d8520da09ad312
+  item_date: "2015-10-26 00:00:00"
+  title: 'Crush the Rush: Holiday API Performance'
+  url: http://blog.smartbear.com/api-load-testing/crush-the-rush-holiday-api-performance/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 080047b13bd02bc1b59a8058a477fd23
+  item_date: "2015-12-08 00:00:00"
+  title: 4 Principles of Sharing Performance Data
+  url: https://www.socrata.com/principles-of-sharing-performance-data/
+  domain: www.socrata.com
+  image: ""
+- curated_id: cb8363529878d70f85a1edab572799ce
+  item_date: "2015-12-15 00:00:00"
+  title: ' A leaner and faster Google Drive API'
+  url: http://googledevelopers.blogspot.com/2015/12/a-leaner-and-faster-google-drive-api.html
+  domain: googledevelopers.blogspot.com
+  image: ""
+- curated_id: d0aff3bfec387d3beacc4849915bb909
+  item_date: "2015-12-15 00:00:00"
+  title: Google Speeds up Drive API for Leaner Integration
+  url: http://www.programmableweb.com/news/google-speeds-drive-api-leaner-integration/2015/12/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 44b9bf3bf359713bff6a29050c228419
+  item_date: "2015-12-17 00:00:00"
+  title: New ? Gzip Compression Support for Amazon CloudFront
+  url: https://aws.amazon.com/blogs/aws/new-gzip-compression-support-for-amazon-cloudfront/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: b3d3487056de34a5051542a662073bdb
+  item_date: "2016-01-05 00:00:00"
+  title: View Your Most Important API Performance Metrics in One Place with the API
+    Test Dashboard
+  url: http://blog.runscope.com/posts/view-your-most-important-api-performance-metrics-in-one-place-with-the-api-test-dashboard
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 67a5ee2b20c3d5b88e8d7c11160cbc07
+  item_date: "2016-01-07 00:00:00"
+  title: Using NGINX Logging for Application Performance Monitoring
+  url: https://www.nginx.com/blog/using-nginx-logging-for-application-performance-monitoring/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 6de81554f16c361d369113b7016d2f11
+  item_date: "2016-01-08 12:02:02"
+  title: Monitoring Mobile Network Performance
+  url: http://technology.jana.com/2015/12/31/monitoring-mobile-network-performance/
+  domain: technology.jana.com
+  image: ""
+- curated_id: 48e6d368d9b35ec5b4dd8bd444e6ae87
+  item_date: "2016-01-11 14:54:02"
+  title: 'Tutorial: Scaling Container Instances with CloudWatch Alarms - Amazon EC2
+    Container Service'
+  url: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/cloudwatch_alarm_autoscaling.html
+  domain: docs.aws.amazon.com
+  image: ""
+- curated_id: 0a60f785e073bf5918c6f4d2ca768190
+  item_date: "2016-01-17 00:00:00"
+  title: 'Wearable Devices: How to Overcome the Load Testing Challenges They Create'
+  url: https://dzone.com/articles/wearable-devices-how-to-overcome-the-load-testing
+  domain: dzone.com
+  image: ""
+- curated_id: ee46780d609eef4af855cf94a2d993fd
+  item_date: "2016-01-18 00:00:00"
+  title: Benchmarking DreamFactory 2.0
+  url: http://blog.dreamfactory.com/benchmarking-dreamfactory-2.0
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 8ac67afa3e2fa370d27ed0e84e0df44d
+  item_date: "2016-01-18 00:00:00"
+  title: Apache Spark With Air On-Time Performance Data
+  url: https://dzone.com/articles/apache-spark-with-air-ontime-performance-data
+  domain: dzone.com
+  image: ""
+- curated_id: 7f90d1da0a5be0a68aba99bedd587501
+  item_date: "2016-01-18 00:00:00"
+  title: Performance Optimization of the AvaTax Core Calculation Platform
+  url: http://developer.avalara.com/blog/2016/01/18/performance-optimization-of-the-avatax-core-calculation-platform
+  domain: developer.avalara.com
+  image: ""
+- curated_id: 87aa14c2c4c4e6f72580ed848f2b87bb
+  item_date: "2016-01-20 00:00:00"
+  title: API performance stress test
+  url: https://jaxenter.com/api-performance-stress-test-123161.html
+  domain: jaxenter.com
+  image: ""
+- curated_id: babe085fe4d0e15960d58987bcf6255a
+  item_date: "2016-01-27 00:00:00"
+  title: Why API Performance Matters (And What to Do About It)
+  url: http://blog.smartbear.com/api-testing/why-api-performance-matters/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: cade0cda8b1362f3a5b64c7f746e822d
+  item_date: "2016-02-08 00:00:00"
+  title: A Brief Look at Running Successful Load Tests
+  url: https://www.apicasystem.com/blog/successful-load-testing/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 9d2b4da979b80696c826e61f9f53d602
+  item_date: "2016-02-09 00:00:00"
+  title: How to Create a High Performing API
+  url: https://dzone.com/articles/how-to-create-a-high-performing-api
+  domain: dzone.com
+  image: ""
+- curated_id: 722902fb4634564f5e18e26885e2c40c
+  item_date: "2016-02-12 00:00:00"
+  title: Amazon Web Services to Acquire NICE
+  url: https://aws.amazon.com/blogs/aws/amazon-web-services-to-acquire-nice/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: aaa9e2af9f9a296d6b02229bdfe80919
+  item_date: "2016-02-12 00:00:00"
+  title: Measuring Percona Server Docker CPU/network Overhead
+  url: https://dzone.com/articles/measuring-percona-server-docker-cpunetwork-overhea
+  domain: dzone.com
+  image: ""
+- curated_id: 046dc91b403d630957a06d36cc759330
+  item_date: "2016-02-14 00:00:00"
+  title: How HTTP/2 is Changing Web Performance Best Practices
+  url: https://dzone.com/articles/how-http2-is-changing-web-performance-best-practic
+  domain: dzone.com
+  image: ""
+- curated_id: d7e2a07976e9a18ce3e46a9dd57efbf4
+  item_date: "2016-02-15 00:00:00"
+  title: 'Performance Testing IoT: A New Challenge in Testing'
+  url: https://www.apicasystem.com/blog/iot-performance-testing-tools/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: c72d6659d7d9f7bbc53fe1d9bb5724f3
+  item_date: "2016-02-19 00:00:00"
+  title: Sports Authority handles 2,000 transactions per second with Google Cloud
+    Platform
+  url: http://googlecloudplatform.blogspot.com/2016/02/Sports-Authority-handles-2000-transactions-per-second-with-Google-Cloud-Platform.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 1e09fbc4f5acf41467d2ef5891ccf73b
+  item_date: "2016-02-21 00:00:00"
+  title: Performance Patterns in Microservices-Based Integrations
+  url: https://dzone.com/articles/performance-patterns-in-microservices-based-integr
+  domain: dzone.com
+  image: ""
+- curated_id: 7420464c0af05c72a054b9b8aa3ba669
+  item_date: "2016-02-24 00:00:00"
+  title: Apache HTTP Server Performance Tuning
+  url: https://dzone.com/articles/apache-http-server-performance-tuning
+  domain: dzone.com
+  image: ""
+- curated_id: a5cb0aad2fe5fc79047a0e4caf869344
+  item_date: "2016-02-29 00:00:00"
+  title: Guaranteeing Consistent API Performance with Apache Storm
+  url: http://keenio.tumblr.com/post/140219557931/guaranteeing-consistent-api-performance-with#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: af7b2e5b6950a80144574c48d81f77b0
+  item_date: "2016-02-29 09:01:52"
+  title: Guaranteeing Consistent API Performance with Apache Storm
+  url: https://keen.io/blog/140219557931/guaranteeing-consistent-api-performance-with
+  domain: keen.io
+  image: ""
+- curated_id: 7e568a0d3dbedc1704c917cbd28f139e
+  item_date: "2016-03-07 00:00:00"
+  title: Internet Performance Management in Today?s Volatile Online Environment
+  url: http://dyn.com/blog/internet-performance-management-in-todays-volatile-online-environment/
+  domain: dyn.com
+  image: ""
+- curated_id: eb04d357aafae8229fa55ef1358c7215
+  item_date: "2016-03-08 00:00:00"
+  title: Plumbr API Now Available
+  url: https://dzone.com/articles/plumbr-api-now-available
+  domain: dzone.com
+  image: ""
+- curated_id: 4c3715e73a3afc691e179d69a225a3d3
+  item_date: "2016-03-10 00:00:00"
+  title: 'Free online learning tool serves 200,000 requests per minute on Google Cloud
+    Platform '
+  url: https://cloudplatform.googleblog.com/2016/03/free-online-learning-tool-serves-200000-requests-per-minute-on-Google-Cloud-Platform.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 56a414c8b80a45620352ecc05f0aae22
+  item_date: "2016-03-14 00:00:00"
+  title: How to Apply the 80:20 Rule to Performance Testing
+  url: https://dzone.com/articles/how-to-apply-the-8020-rule-to-performance-testing
+  domain: dzone.com
+  image: ""
+- curated_id: b5a853ed7a89c3cead67c1ae04d8f1cb
+  item_date: "2016-03-16 00:00:00"
+  title: An Introduction to Graphite
+  url: https://dzone.com/articles/an-introduction-to-graphite
+  domain: dzone.com
+  image: ""
+- curated_id: b87bea8c378340366b45970280eb435c
+  item_date: "2016-03-16 00:00:00"
+  title: Apache Kafka Performance Tuning
+  url: https://dzone.com/articles/apache-kafka-performance-tuning
+  domain: dzone.com
+  image: ""
+- curated_id: ee420ac62ee5b4e4ec15a91a9822b11a
+  item_date: "2016-03-23 00:00:00"
+  title: Performance without Compromise
+  url: http://techblog.netflix.com/2016/03/performance-without-compromise.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: b1c7dbbbd1b6a1e7c2281c06ae74cb84
+  item_date: "2016-03-24 00:00:00"
+  title: 'API Speed and Performance: A Guide to Staying In Front of API Performance
+    Problems'
+  url: http://blog.smartbear.com/api-testing/api-performance-problems/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 56a491599d8d702e667c8522a6aa3c97
+  item_date: "2016-03-24 00:00:00"
+  title: 'You asked and we delivered: PDF reports and multiple Page Speed test locations'
+  url: http://royal.pingdom.com/2016/03/24/pdf-reports-multiple-page-speed-test-locations/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 2c204085c5dbdfd6c396a6f5ccd3370f
+  item_date: "2016-03-24 00:00:00"
+  title: 'API Speed and Performance: A Guide to Staying in Front of API Performance
+    Problems'
+  url: https://dzone.com/articles/api-speed-and-performance-a-guide-to-staying-in-fr
+  domain: dzone.com
+  image: ""
+- curated_id: 77675c58c96353b320017956752c32ae
+  item_date: "2016-04-08 00:00:00"
+  title: Google Cloud Datastore API Rebuilt for Better Performance and Access
+  url: http://www.programmableweb.com/news/google-cloud-datastore-api-rebuilt-better-performance-and-access/brief/2016/04/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1987f8badb8db85d844696ab96a1ef61
+  item_date: "2016-04-11 00:00:00"
+  title: 5 API Testing ?Must Haves? for API Security, Reliability, Performance
+  url: https://dzone.com/articles/5-api-testing-must-haves-for-api-security-reliabil
+  domain: dzone.com
+  image: ""
+- curated_id: b62933f5d789ec4031e08817dbcb149f
+  item_date: "2016-04-11 00:00:00"
+  title: An Introduction to Load Testing With Gatling
+  url: https://dzone.com/articles/gatling-gun-is-now-a-prospecting-tool-for-testers
+  domain: dzone.com
+  image: ""
+- curated_id: 0436749d4f4d7a6441fce718201e9ee1
+  item_date: "2016-04-13 00:00:00"
+  title: The Role of Testing in API Performance
+  url: http://blog.smartbear.com/api-testing/testing-in-api-performance/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: f78a9bad076a6f46142710f8c3718e28
+  item_date: "2016-05-03 00:00:00"
+  title: 'Article: Locating Common Micro Service Performance Anti-Patterns'
+  url: http://www.infoq.com/articles/Diagnose-Microservice-Performance-Anti-Patterns
+  domain: www.infoq.com
+  image: ""
+- curated_id: af1560504b40ecee80a89bc21ad17b6d
+  item_date: "2016-05-09 00:00:00"
+  title: How to Test for API Performance and Get More from Your Functional Tests
+  url: http://blog.smartbear.com/api-testing/how-to-test-for-api-performance-and-get-more-from-your-functional-tests/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: c1097fe5eeaa04dac301d5931f6162c8
+  item_date: "2016-05-11 00:00:00"
+  title: Changes in Performance and Monitoring
+  url: https://dzone.com/articles/changes-in-performance-and-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: 2a20ed8093ecff066238587c9d405c13
+  item_date: "2016-05-12 00:00:00"
+  title: How CPU Governor Performance Affects MySQL
+  url: https://dzone.com/articles/how-cpu-governor-performance-affects-mysql
+  domain: dzone.com
+  image: ""
+- curated_id: 270b5fcb1dd5934b7a13880cc121bfef
+  item_date: "2016-05-12 00:00:00"
+  title: Technical Solutions Used for Performance and Monitoring
+  url: https://dzone.com/articles/technical-solutions-used-for-performance-and-monit
+  domain: dzone.com
+  image: ""
+- curated_id: dbc98d49fa957a26ac18fcee38d915a8
+  item_date: "2016-05-15 00:00:00"
+  title: Build High-Performance APIs From the Ground Up
+  url: https://dzone.com/articles/build-high-performance-apis-from-the-ground-up
+  domain: dzone.com
+  image: ""
+- curated_id: 2cb1234dffe2e8f1c0804ed7903a0611
+  item_date: "2016-05-18 00:00:00"
+  title: Performance and Monitoring Solutions Directory
+  url: https://dzone.com/articles/performance-and-monitoring-solutions-directory
+  domain: dzone.com
+  image: ""
+- curated_id: 74218314e9f6a744cbe3f9910afe37ff
+  item_date: "2016-05-19 00:00:00"
+  title: Skills Developers Need To Optimize Performance and Facilitate Monitoring
+  url: https://dzone.com/articles/skills-developers-need-to-optimize-performance-and
+  domain: dzone.com
+  image: ""
+- curated_id: b789cf989614d1ceeef1a729b36caa92
+  item_date: "2016-05-19 00:00:00"
+  title: Quick and Easy Web Service Load Testing with JMeter
+  url: http://blog.developer.bazaarvoice.com/2016/05/19/quick-and-easy-web-service-load-testing-with-jmeter/
+  domain: blog.developer.bazaarvoice.com
+  image: ""
+- curated_id: 9490869e69721f039bd855c7152d768a
+  item_date: "2016-05-20 00:00:00"
+  title: Additional Considerations Regarding Performance and Monitoring
+  url: https://dzone.com/articles/additional-considerations-regarding-performance-an
+  domain: dzone.com
+  image: ""
+- curated_id: 9e8c209d91ae649511301154949a7d50
+  item_date: "2016-05-23 00:00:00"
+  title: Debugging an API Performance Problem from the Real World
+  url: http://blog.smartbear.com/api-testing/debugging-an-api-performance-problem-from-the-real-world/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 700196403ebcc0eefd7c7c4a0b4eebf6
+  item_date: "2016-05-24 00:00:00"
+  title: Amazon Redshift ? Up to 2X Throughput and 10X Vacuuming Performance Improvements
+  url: https://aws.amazon.com/blogs/aws/amazon-redshift-up-to-2x-throughput-and-10x-vacuuming-performance-improvements/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 4685c1a3bd3a436b462c9ee0a199e110
+  item_date: "2016-05-31 00:00:00"
+  title: Debugging an API Performance Problem From the Real World
+  url: https://dzone.com/articles/debugging-an-api-performance-problem-from-the-real
+  domain: dzone.com
+  image: ""
+- curated_id: c8e25b5baa12904c784fe9b1da11f3fe
+  item_date: "2016-06-06 00:00:00"
+  title: How CDN Companies Measure Latency and Acceleration
+  url: https://www.apicasystem.com/blog/cdn-companies-measure-latency-acceleration/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: ab8afa4048a8e1878cf2b17cc256e947
+  item_date: "2016-06-11 00:00:00"
+  title: 'Blurring the Line: Performance and Security'
+  url: http://blog.catchpoint.com/2016/06/11/blurring-line-performance-security/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 71f424f68629c34f5b83943854b687e6
+  item_date: "2016-06-11 00:00:00"
+  title: 'The need for speed: this week on Google Cloud Platform'
+  url: https://cloudplatform.googleblog.com/2016/06/the-need-for-speed-this-week-on-Google-Cloud-Platform.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 775df821576d0bde4afcff9eaea8c42c
+  item_date: "2016-06-15 00:00:00"
+  title: 'Performance Monitoring: Real vs Headless Browsers'
+  url: https://dzone.com/articles/performance-monitoring-real-vs-headless-browsers
+  domain: dzone.com
+  image: ""
+- curated_id: 9aa421ec25fb39ceea890de7ddaf8622
+  item_date: "2016-07-07 00:00:00"
+  title: 'A Guide to Performance Challenges With AWS EC2: Part 3'
+  url: https://dzone.com/articles/a-guide-to-performance-challenges-with-aws-ec2-par-2
+  domain: dzone.com
+  image: ""
+- curated_id: 35d0a29fa9c3f423349fdef78d04b129
+  item_date: "2016-07-08 00:00:00"
+  title: How to Easily Load Test With Open Source Tools
+  url: https://dzone.com/articles/how-to-easily-load-test-with-open-source-tools
+  domain: dzone.com
+  image: ""
+- curated_id: 55e2d311beaf4b7469c1451bebf98a5d
+  item_date: "2016-07-11 00:00:00"
+  title: 'Web Performance and the Impact of SPDY, HTTP/2 and QUIC: Part 2'
+  url: https://dzone.com/articles/web-performance-and-the-impact-of-spdy-http2-and-q
+  domain: dzone.com
+  image: ""
+- curated_id: bb554f8e37a1d23304d81531481ef005
+  item_date: "2016-07-11 00:00:00"
+  title: Security (SSL) has a Performance Tax
+  url: http://blog.catchpoint.com/2016/07/11/third-party-ssl-performance/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 51d5a400e021d29c3b57716c362f0fb1
+  item_date: "2016-07-14 00:00:00"
+  title: Measure Page Load Times Using the User Timing API
+  url: http://techblog.constantcontact.com/software-development/measure-page-load-times-using-the-user-timing-api/
+  domain: techblog.constantcontact.com
+  image: ""
+- curated_id: b431b2ac0a5574daa8f365b7ad5f6bda
+  item_date: "2016-07-16 00:00:00"
+  title: Microbenchmarking Apache Storm 1.0 Performance
+  url: https://dzone.com/articles/microbenchmarking-apache-storm-10-performance
+  domain: dzone.com
+  image: ""
+- curated_id: ea72a9b024824281fadaec6a8b7677e8
+  item_date: "2016-07-18 00:00:00"
+  title: Utilizing Microservices for Performance
+  url: https://dzone.com/articles/micro-services-for-performance
+  domain: dzone.com
+  image: ""
+- curated_id: 43d79e34973fb90a6ccf1658b9214bd4
+  item_date: "2016-07-21 00:00:00"
+  title: How to Monitor Microsoft IIS
+  url: https://blog.serverdensity.com/monitor-iis/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: bd74214c86e63fd61095b0e7810747a2
+  item_date: "2016-08-01 00:00:00"
+  title: 'Don?t Call It A Comeback: Why DNS Is At The Core of Internet Performance
+    Management'
+  url: http://dyn.com/blog/dont-call-it-a-comeback-why-dns-is-at-the-core-of-internet-performance-management/
+  domain: dyn.com
+  image: ""
+- curated_id: 3a27a36d5e6ea05cd766539bd1de5cfd
+  item_date: "2016-08-03 00:00:00"
+  title: Attempt At Scoring 100 On Google PageSpeed
+  url: https://dzone.com/articles/attempt-at-scoring-100-on-google-pagespeed
+  domain: dzone.com
+  image: ""
+- curated_id: b86acca5872cef0b41a7bf077398345f
+  item_date: "2016-08-03 00:00:00"
+  title: Googles Accelerated Mobile Pages project spreads to more of the web
+  url: http://www.pcworld.com/article/3103478/android/googles-accelerated-mobile-pages-project-spreads-to-more-of-the-web.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 937b0b31baf1182e2b809ecd475c705e
+  item_date: "2016-08-17 00:00:00"
+  title: Arrow Builder API Server Sizing using Load Testing
+  url: https://www.appcelerator.com/blog/2016/08/arrow-builder-api-server-sizing-using-load-testing/
+  domain: www.appcelerator.com
+  image: ""
+- curated_id: d937d03d0992fcdd6c9a09362403afbc
+  item_date: "2016-08-23 00:00:00"
+  title: 'Load Testing Reflections: Final Notes on Scaling, Capacity Planning, and
+    Bottlenecks'
+  url: https://www.apicasystem.com/blog/load-testing-reflections-final-notes-on-scaling-capacity-planning-and-bottlenecks/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 764a01cc148d748bf11f55f0bcb66c11
+  item_date: "2016-08-23 00:00:00"
+  title: 'Top Most Overlooked MySQL Performance Optimizations: Part I'
+  url: https://dzone.com/articles/top-most-overlooked-mysql-performance-optimization
+  domain: dzone.com
+  image: ""
+- curated_id: f8b26d7eb9f6199a8f1da84bbde92917
+  item_date: "2016-09-01 00:00:00"
+  title: Measure Cloud Performance Like A Customer
+  url: http://dyn.com/blog/measure-cloud-performance-like-a-customer/
+  domain: dyn.com
+  image: ""
+- curated_id: eea26a8c379ac2202d695fc2f798caaf
+  item_date: "2016-09-02 09:00:06"
+  title: 'Take your domain?s performance to the next level. Learn about these  reccomended
+    #PageRules'
+  url: https://www.cloudflare.com/features-page-rules/optimize-speed/
+  domain: www.cloudflare.com
+  image: ""
+- curated_id: 9e3d801c83c31ae264e6550834be9629
+  item_date: "2016-09-08 00:00:00"
+  title: New Reader Endpoint for Amazon Aurora ? Load Balancing  Higher Availability
+  url: https://aws.amazon.com/blogs/aws/new-reader-endpoint-for-amazon-aurora-load-balancing-higher-availability/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: e68257a8fc4b90cd65b514eb4b7ac3b5
+  item_date: "2016-09-08 00:00:00"
+  title: What is Performance Testing and Types of Performance Testing?
+  url: https://dzone.com/articles/what-is-performance-testing-and-types-of-performan
+  domain: dzone.com
+  image: ""
+- curated_id: f4692c71053677a6a819b65ccd568749
+  item_date: "2016-09-13 00:00:00"
+  title: Don?t Underutilize These 5 Amazing HTTP Performance Features
+  url: http://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 1d3eff2cb91a84e9b41c59b1b7cf62c2
+  item_date: "2016-09-14 00:00:00"
+  title: AWS Load Testing Project Questions
+  url: https://www.apicasystem.com/blog/aws-load-testing-project-questions/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: f8f65473ab49312b151d1db075d012ca
+  item_date: "2016-09-15 00:00:00"
+  title: PHP 7 doubles performance for DreamFactory
+  url: http://blog.dreamfactory.com/php-7-doubles-performance-for-dreamfactory
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: c24acffe79c0b0c726d2a2f289baffa3
+  item_date: "2016-09-20 00:00:00"
+  title: CA Technologies buys BlazeMeter
+  url: http://www.zdnet.com/article/ca-technologies-buys-blazemeter/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 08c80108d121a654372c0a51912ce6a7
+  item_date: "2016-09-20 00:00:00"
+  title: Tuning NGINX
+  url: https://blog.codeship.com/tuning-nginx/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: ba302a70d305abd63369a55c3f8dae7b
+  item_date: "2016-09-21 00:00:00"
+  title: Twilio Launches Voice Insights API to Monitor WebRTC Performance
+  url: http://www.programmableweb.com/news/twilio-launches-voice-insights-api-to-monitor-webrtc-performance/brief/2016/09/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 63cc26b43f767da22d7416d03a85e756
+  item_date: "2016-09-21 09:15:15"
+  title: Is TLS Fast Yet?
+  url: https://istlsfastyet.com/
+  domain: istlsfastyet.com
+  image: ""
+- curated_id: cf4cb81831bf490965017a33cb59baf8
+  item_date: "2016-09-23 00:00:00"
+  title: APIs Are Not Web Pages
+  url: https://devcentral.f5.com/articles/apis-are-not-web-pages-21799
+  domain: devcentral.f5.com
+  image: ""
+- curated_id: 2bb6157fe74f941b109c9bcdbf2abdba
+  item_date: "2016-09-26 00:00:00"
+  title: Performance Impact of Third Party Components
+  url: https://dzone.com/articles/performance-impact-of-third-party-components
+  domain: dzone.com
+  image: ""
+- curated_id: cf91911bc75707a096db9122ada19c43
+  item_date: "2016-09-26 00:00:00"
+  title: Stay on Offense With a Proactive Network Performance Management Strategy
+  url: https://dzone.com/articles/stay-on-offense-with-a-proactive-network-performan
+  domain: dzone.com
+  image: ""
+- curated_id: 8898aeb223ffd4a26e9c19901fbb680f
+  item_date: "2016-09-29 00:00:00"
+  title: Load Testing Published APIs With JMeter
+  url: https://dzone.com/articles/load-testing-published-apis-with-jmeter
+  domain: dzone.com
+  image: ""
+- curated_id: c8736287718b24df6072ca935fbe3795
+  item_date: "2016-09-29 00:00:00"
+  title: 'The Wild West Of Performance Measurement: Using Data To Ensure Optimal Vendor
+    Selection'
+  url: http://dyn.com/blog/the-wild-west-of-performance-measurement-using-data-to-ensure-optimal-vendor-selection/
+  domain: dyn.com
+  image: ""
+- curated_id: 31857d321c4b5adddfcce7f2797ca5c5
+  item_date: "2016-10-04 00:00:00"
+  title: 'Thoughts on the Right Configuration and Strategy for Load Testing: Gatling'
+  url: https://dzone.com/articles/thoughts-on-the-right-configuration-and-strategy-f
+  domain: dzone.com
+  image: ""
+- curated_id: 3f5d0b2e536db0b2bd9e59802b59037e
+  item_date: "2016-10-06 00:00:00"
+  title: Pregenerating Static Web Pages for Better Performance
+  url: https://blog.codeship.com/pregenerating-static-web-pages-for-better-performance/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 31864ff6e086c13cb0c93de2a3eceaf9
+  item_date: "2016-10-07 00:00:00"
+  title: 'IoT?s Achilles Heel: API Call Performance'
+  url: https://dzone.com/articles/iots-achilles-heel-api-call-performance
+  domain: dzone.com
+  image: ""
+- curated_id: ad164305d3f379c4020f53d44ec10113
+  item_date: "2016-10-12 00:00:00"
+  title: LEGOs and modern network performance monitoring
+  url: http://blogs.ca.com/2016/10/12/legos-modern-network-performance-monitoring/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 974ad04654871a558dbd05e75c1d2baa
+  item_date: "2016-10-14 00:00:00"
+  title: Caching for Faster APIs
+  url: https://dzone.com/articles/caching-for-faster-apis
+  domain: dzone.com
+  image: ""
+- curated_id: 73de1e3b81a580af0e17493061c8eee9
+  item_date: "2016-10-17 00:00:00"
+  title: MySQL 5.7 Performance Tuning Immediately After Installation
+  url: https://dzone.com/articles/mysql-57-performance-tuning-immediately-after-inst
+  domain: dzone.com
+  image: ""
+- curated_id: 97dd38f6b4f79a793e97480f45dc5a96
+  item_date: "2016-10-20 00:00:00"
+  title: 'Reinventing Performance Testing: Continuous Integration'
+  url: https://dzone.com/articles/reinventing-performance-testing-continuous-integra
+  domain: dzone.com
+  image: ""
+- curated_id: 2d6c2594a54e0e80b5c5b1e85985d7fd
+  item_date: "2016-10-20 00:00:00"
+  title: Restsharp Vs HttpClient Performance Benchmark
+  url: http://www.codeproject.com/Articles/1144114/Restsharp-Vs-HttpClient-Performance-Benchmark
+  domain: www.codeproject.com
+  image: ""
+- curated_id: a8c827c0673d0e3c75fc6172a5e44b77
+  item_date: "2016-10-21 00:00:00"
+  title: Using an Arrow API Mockup to Remove Development Bottlenecks
+  url: https://www.appcelerator.com/blog/2016/10/arrow-api-mockup-2/
+  domain: www.appcelerator.com
+  image: ""
+- curated_id: 20b849e20fd5ad67c5d80af5cf5221fe
+  item_date: "2016-12-19 00:00:00"
+  title: ' Using load shedding to survive a success disaster'
+  url: https://cloudplatform.googleblog.com/2016/12/using-load-shedding-to-survive-a-success-disaster-CRE-life-lessons.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: db75166ac2c7b40eb9941ff3de23a99f
+  item_date: "2016-12-26 00:00:00"
+  title: How to Load Test SAML SSO Secured Websites with JMeter
+  url: https://dzone.com/articles/how-to-load-test-saml-sso-secured-websites-with-jm
+  domain: dzone.com
+  image: ""
+- curated_id: 07e917ba145fabff06f9f46dd91d1e9d
+  item_date: "2017-01-05 00:00:00"
+  title: Tuning PostgreSQL with pgbench
+  url: https://blog.codeship.com/tuning-postgresql-with-pgbench/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 3fbb863ed6f6bfe0e2db3952d50267ec
+  item_date: "2017-01-11 00:00:00"
+  title: Performance Predictions for 2017
+  url: http://blog.catchpoint.com/2017/01/11/performance-predictions-2017/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: cf3e81140ca2b73ca5de7f66be3bb56d
+  item_date: "2017-01-11 00:00:00"
+  title: Three key metrics for monitoring AWS SNS performance and usage.
+  url: http://blogs.site24x7.com/2017/01/11/monitor-aws-sns-topic-metrics/
+  domain: blogs.site24x7.com
+  image: ""
+- curated_id: d73fb681b9c60da6fc9dd68409cfc549
+  item_date: "2017-01-12 00:00:00"
+  title: Compute Performance Improvements  Magic of Caching
+  url: http://keenio.tumblr.com/post/155772589226/compute-performance-improvements-magic-of#_=_
+  domain: keenio.tumblr.com
+  image: ""
+- curated_id: 5d48657ec44fb06e93fb380e02ca59b9
+  item_date: "2017-01-13 00:00:00"
+  title: Lloyds Bank Experiences Performance Issues for Over Two Days
+  url: http://blog.catchpoint.com/2017/01/13/lloyds-bank-experiences-performance-issues-two-days/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 83f63ec3986452c5822a8ce8c1587830
+  item_date: "2017-01-13 00:00:00"
+  title: Concerns About Performance and Monitoring
+  url: https://dzone.com/articles/concerns-about-performance-and-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: 8b453421cdbd6b0bbe2ed5f8668752b4
+  item_date: "2017-01-18 05:44:16"
+  title: Speeding up RESTful Services in Play Framework
+  url: https://www.lucidchart.com/techblog/2016/08/29/speeding-up-restful-services-in-play-framework/
+  domain: www.lucidchart.com
+  image: ""
+- curated_id: 26564f3312e3fae72fb7ea50731f9999
+  item_date: "2017-01-21 00:00:00"
+  title: 17 Essential Skills for Growing Performance Engineers
+  url: https://dzone.com/articles/17-essential-skills-for-growing-performance-engine
+  domain: dzone.com
+  image: ""
+- curated_id: d32a35505d4716978a189d7cabd09be3
+  item_date: "2017-01-21 00:00:00"
+  title: Improving Azure SQL Database Performance using In-Memory Technologies
+  url: https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory
+  domain: www.infoq.com
+  image: ""
+- curated_id: 6eaf83272287f44abea2de36a820f005
+  item_date: "2017-01-31 00:00:00"
+  title: Beating JSON performance with Protobuf
+  url: https://auth0.com/blog/beating-json-performance-with-protobuf/
+  domain: auth0.com
+  image: ""
+- curated_id: cc3d873c24b6d10f4c1c788fb2ec39b2
+  item_date: "2017-01-31 00:00:00"
+  title: How We Used Pulse Insights to Improve Website Performance
+  url: https://dzone.com/articles/how-we-used-pulse-insights-to-improve-website-perf
+  domain: dzone.com
+  image: ""
+- curated_id: 5264d74749ec22b17a03cb7df0851ddb
+  item_date: "2017-02-02 00:00:00"
+  title: 'The infrastructure behind Twitter: efficiency and optimization'
+  url: https://blog.twitter.com/2016/the-infrastructure-behind-twitter-efficiency-and-optimization
+  domain: blog.twitter.com
+  image: ""
+- curated_id: de3b3bab5cc56d7a6eb16ef6f4847992
+  item_date: "2017-03-02 00:00:00"
+  title: Latency best practices in the IMA SDKs
+  url: http://googleadsdeveloper.blogspot.com/2017/02/latency-best-practices-in-ima-sdks.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-03-06 11:23:33"
+  title: 'A high-level look at how to optimize your #GraphQL server performance, by
+    @andrewingram.'
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 3a1c545701317f287beca1bcffac5581
+  item_date: "2017-03-09 14:10:50"
+  title: 'Node.js and APIs: A Match Made in Scaling Heaven'
+  url: https://medium.com/@nodejs/node-js-and-apis-a-match-made-in-scaling-heaven-9ffb0b1d3c9a#.ie7lev1f8
+  domain: medium.com
+  image: ""
+- curated_id: 2c2f7cacb1b81fcc02e53efb67fd5466
+  item_date: "2017-03-11 00:00:00"
+  title: 'AWS Timeouts: A Detective Story'
+  url: https://dzone.com/articles/aws-elastic-beanstalk-timeouts-a-detective-story
+  domain: dzone.com
+  image: ""
+- curated_id: ac0658dcf3e2cbfa4d18baebaa7bccad
+  item_date: "2017-03-15 00:00:00"
+  title: Profiling your Realtime Database Performance
+  url: https://firebase.googleblog.com/2017/03/profiling-your-realtime-database.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 42e8636fd91519ee9a5917ee5aa45fb9
+  item_date: "2017-03-16 00:00:00"
+  title: Optimizing Twitter Heron
+  url: https://blog.twitter.com/2017/optimizing-twitter-heron
+  domain: blog.twitter.com
+  image: ""
+- curated_id: b4b4b6f12eeade3aeed392728a7b59c8
+  item_date: "2017-04-04 00:00:00"
+  title: Scribe Online Performance Options
+  url: http://blog.scribesoft.com/scribe-online-performance-options/
+  domain: blog.scribesoft.com
+  image: ""
+- curated_id: a72290fc92222a20648d61663de3a0a8
+  item_date: "2017-04-05 00:00:00"
+  title: Host-Based Routing Support for AWS Application Load Balancers
+  url: https://aws.amazon.com/blogs/aws/new-host-based-routing-support-for-aws-application-load-balancers/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: b87b1c17688e37cbeff4a465ad98fffc
+  item_date: "2017-04-06 00:00:00"
+  title: Data Compression Improvements in Amazon Redshift Bring Compression Ratios
+    Up to 4x
+  url: https://aws.amazon.com/blogs/aws/data-compression-improvements-in-amazon-redshift/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7bb83e868df5a0cc7d84924c942a67b9
+  item_date: "2017-04-07 00:00:00"
+  title: Swift Performance - WordPress Cache  Performance Booster (Utilities)
+  url: https://codecanyon.net/item/swift-performance-wordpress-cache-performance-booster/19716242
+  domain: codecanyon.net
+  image: ""
+- curated_id: 19dd5cca384cde05206ae71aa4ada91d
+  item_date: "2017-04-11 00:00:00"
+  title: How we made our DNS stack 3x faster
+  url: https://blog.cloudflare.com/how-we-made-our-dns-stack-3x-faster/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 363a6f95e4188cac5a3f44613369004f
+  item_date: "2017-04-11 09:05:25"
+  title: 'Tweet: Learn more about what is affecting your #API users and customers
+    with real-time, AI-based performance analysis.hellip; https://t.co/OGoymehFG4'
+  url: https://twitter.com/APImetricStats/statuses/851828543822721024
+  domain: twitter.com
+  image: ""
+- curated_id: 32cd02834acf0113ddaef23364803cef
+  item_date: "2017-04-13 00:00:00"
+  title: "Firefox\u2019s new performance tab is great news for those with old computers"
+  url: https://thenextweb.com/insider/2017/04/13/firefoxs-new-performance-tab-great-news-old-computers/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 608e1559b30287b59a45f3036a50df98
+  item_date: "2017-04-13 00:00:00"
+  title: How to Configure HAProxy as a Proxy and Load Balancer
+  url: https://dzone.com/articles/how-to-configure-ha-proxy-as-a-proxy-and-loadbalan
+  domain: dzone.com
+  image: ""
+- curated_id: e529798190009b817a47a887e261c53a
+  item_date: "2017-04-19 00:00:00"
+  title: Oracle Dyn Provides ICANN With Access To Internet Performance Data
+  url: http://dyn.com/blog/oracle-dyn-provides-icann-with-access-to-internet-performance-data/
+  domain: dyn.com
+  image: ""
+- curated_id: 160f5fce2e4a26ea2f0dcd5522ef3a83
+  item_date: "2017-04-22 00:00:00"
+  title: Load Balancing Versus Application Routing
+  url: https://dzone.com/articles/load-balancing-versus-application-routing
+  domain: dzone.com
+  image: ""
+- curated_id: 61e29ff486335ff72141e6fa223961b5
+  item_date: "2017-04-24 00:00:00"
+  title: 'Latency: The Myths  Realities, Part 2'
+  url: http://www.avnetwork.com/avtechnology/latency-the-myths--realities-part-2/126262
+  domain: www.avnetwork.com
+  image: ""
+- curated_id: 68672fb5ea45ed9736d18acbf45dd639
+  item_date: "2017-04-26 00:00:00"
+  title: Google Retires Octane JavaScript Benchmark
+  url: https://www.infoq.com/news/2017/04/octane-benchmark-retired
+  domain: www.infoq.com
+  image: ""
+- curated_id: e6e0a703bcc0485c1c831b90993da4a6
+  item_date: "2017-04-27 12:47:45"
+  title: 'gRPC-Web: Moving past REST+JSON towards type-safe Web APIs'
+  url: https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis
+  domain: spatialos.improbable.io
+  image: ""
+- curated_id: 3621dc9ed5901d26ab6a50866979d028
+  item_date: "2017-04-27 12:48:12"
+  title: GraphQL APIs and Performace
+  url: https://brandur.org/fragments/graphql-performance
+  domain: brandur.org
+  image: ""
+- curated_id: d96a9f373776bbc55cdc9397dc38e54b
+  item_date: "2017-05-01 13:02:18"
+  title: |-
+    Tweet: Slow web response times == visitor abandons your site.
+
+    Slow API response times == visitor abandons your app. https://t.co/Zstlc98ESW
+  url: https://twitter.com/Runscope/statuses/859135914714550272
+  domain: twitter.com
+  image: ""
+- curated_id: d9a5d171203fb109419dc72cad05930a
+  item_date: "2017-05-10 00:00:00"
+  title: How Cloudflare analyzes 1M DNS queries per second
+  url: https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: eff5107e7e3202c3de593d10525a2ae6
+  item_date: "2017-05-10 00:00:00"
+  title: Reducing Links to Low-Quality Web Page Experiences
+  url: https://www.facebook.com/unsupportedbrowser
+  domain: www.facebook.com
+  image: ""
 ...
