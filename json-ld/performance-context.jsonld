@@ -1,0 +1,137 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "perf": "https://api-evangelist.github.io/performance/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+    "qb": "http://purl.org/linked-data/cube#",
+
+    "LoadTestRun": "perf:LoadTestRun",
+    "WebVitalSample": "perf:WebVitalSample",
+    "Scenario": "perf:Scenario",
+    "Threshold": "perf:Threshold",
+
+    "id": "schema:identifier",
+    "name": "schema:name",
+    "description": "schema:description",
+
+    "tool": {
+      "@id": "perf:tool",
+      "@type": "xsd:string"
+    },
+    "target_url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "page_url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "source": {
+      "@id": "perf:source",
+      "@type": "xsd:string"
+    },
+    "device": {
+      "@id": "perf:device",
+      "@type": "xsd:string"
+    },
+    "connection": {
+      "@id": "perf:connection",
+      "@type": "xsd:string"
+    },
+    "country": {
+      "@id": "schema:addressCountry",
+      "@type": "xsd:string"
+    },
+    "scenario": {
+      "@id": "perf:scenario"
+    },
+    "virtual_users": {
+      "@id": "perf:virtualUsers",
+      "@type": "xsd:integer"
+    },
+    "duration_seconds": {
+      "@id": "perf:durationSeconds",
+      "@type": "xsd:integer"
+    },
+    "ramp_up_seconds": {
+      "@id": "perf:rampUpSeconds",
+      "@type": "xsd:integer"
+    },
+    "started_at": {
+      "@id": "schema:startTime",
+      "@type": "xsd:dateTime"
+    },
+    "finished_at": {
+      "@id": "schema:endTime",
+      "@type": "xsd:dateTime"
+    },
+    "captured_at": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "metrics": {
+      "@id": "perf:metrics"
+    },
+    "requests_total": {
+      "@id": "perf:requestsTotal",
+      "@type": "xsd:long"
+    },
+    "requests_per_second": {
+      "@id": "perf:requestsPerSecond",
+      "@type": "xsd:double"
+    },
+    "error_rate": {
+      "@id": "perf:errorRate",
+      "@type": "xsd:double"
+    },
+    "latency_ms": {
+      "@id": "perf:latencyMs"
+    },
+    "p50": { "@id": "perf:p50", "@type": "xsd:double" },
+    "p95": { "@id": "perf:p95", "@type": "xsd:double" },
+    "p99": { "@id": "perf:p99", "@type": "xsd:double" },
+    "max": { "@id": "perf:max", "@type": "xsd:double" },
+    "lcp_ms": { "@id": "perf:lcpMs", "@type": "xsd:double" },
+    "inp_ms": { "@id": "perf:inpMs", "@type": "xsd:double" },
+    "cls":    { "@id": "perf:cls",    "@type": "xsd:double" },
+    "fcp_ms": { "@id": "perf:fcpMs", "@type": "xsd:double" },
+    "ttfb_ms": { "@id": "perf:ttfbMs", "@type": "xsd:double" },
+    "ratings": { "@id": "perf:ratings" },
+    "thresholds": {
+      "@id": "perf:thresholds",
+      "@container": "@set"
+    },
+    "metric": {
+      "@id": "perf:metric",
+      "@type": "xsd:string"
+    },
+    "operator": {
+      "@id": "perf:operator",
+      "@type": "xsd:string"
+    },
+    "value": {
+      "@id": "perf:value",
+      "@type": "xsd:double"
+    },
+    "passed": {
+      "@id": "perf:passed",
+      "@type": "xsd:boolean"
+    },
+    "status": {
+      "@id": "perf:status",
+      "@type": "xsd:string"
+    },
+    "session_id": {
+      "@id": "perf:sessionId",
+      "@type": "xsd:string"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

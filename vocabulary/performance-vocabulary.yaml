@@ -1,0 +1,306 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Performance
+  description: Vocabulary for the API and web performance topic, covering load testing, performance benchmarking, real user monitoring (RUM), Core Web Vitals, synthetic monitoring, application performance monitoring (APM), distributed tracing, and continuous profiling.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: k6 Cloud
+      namespace: k6
+      status: active
+    - name: Apache JMeter
+      namespace: apache-jmeter
+      status: active
+    - name: Gatling Enterprise
+      namespace: gatling
+      status: active
+    - name: Datadog APM and RUM
+      namespace: datadog
+      status: active
+    - name: New Relic
+      namespace: new-relic
+      status: active
+    - name: OpenTelemetry Collector
+      namespace: opentelemetry
+      status: active
+    - name: Google PageSpeed Insights
+      namespace: google-pagespeed
+      status: active
+
+  resources:
+    - name: load-test-runs
+      description: Executions of load, stress, spike, or soak tests against APIs or web endpoints
+      actions:
+        - list
+        - get
+        - create
+        - abort
+        - compare
+    - name: scenarios
+      description: Reusable load profiles describing virtual users, ramp, duration, and target endpoints
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: web-vital-samples
+      description: Individual Core Web Vitals measurements from real users or synthetic tests
+      actions:
+        - list
+        - get
+        - ingest
+        - aggregate
+    - name: traces
+      description: Distributed traces capturing the end-to-end path of a request across services
+      actions:
+        - list
+        - get
+        - search
+    - name: spans
+      description: Individual operations within a distributed trace, with latency and metadata
+      actions:
+        - list
+        - get
+        - aggregate
+    - name: profiles
+      description: CPU, memory, and wall-clock profiles collected by continuous profilers
+      actions:
+        - list
+        - get
+        - compare
+    - name: thresholds
+      description: Pass/fail criteria evaluated against load test or RUM metrics
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: search
+      description: Search for resources by criteria such as time range, endpoint, or service
+      httpMethod: GET
+      pattern: query
+    - name: create
+      description: Create a new resource (e.g. start a load test, register a scenario)
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: abort
+      description: Stop a currently running load test
+      httpMethod: POST
+      pattern: write
+    - name: compare
+      description: Compare two test runs or profiles to detect regressions
+      httpMethod: POST
+      pattern: read
+    - name: ingest
+      description: Submit a measurement sample (e.g. a Web Vital from the browser) to the backend
+      httpMethod: POST
+      pattern: write
+    - name: aggregate
+      description: Compute aggregate statistics (percentiles, histograms) over many samples
+      httpMethod: GET
+      pattern: query
+
+  schemas:
+    core:
+      - name: LoadTestRun
+        description: A single execution of a load or performance test
+        properties:
+          - id
+          - tool
+          - target_url
+          - scenario
+          - started_at
+          - finished_at
+          - metrics
+          - thresholds
+          - status
+      - name: WebVitalSample
+        description: A single Core Web Vitals measurement from RUM or synthetic
+        properties:
+          - page_url
+          - captured_at
+          - source
+          - tool
+          - device
+          - connection
+          - country
+          - metrics
+          - ratings
+
+  enums:
+    test_scenario_types:
+      - smoke
+      - load
+      - stress
+      - spike
+      - soak
+      - breakpoint
+    load_test_tools:
+      - k6
+      - jmeter
+      - locust
+      - gatling
+      - artillery
+      - blazemeter
+      - neoload
+      - loadrunner
+      - stormforge
+      - speedscale
+      - goreplay
+    measurement_sources:
+      - rum
+      - synthetic
+      - lighthouse
+      - lighthouse-ci
+      - webpagetest
+      - crux
+    web_vital_ratings:
+      - good
+      - needs-improvement
+      - poor
+    run_status:
+      - passed
+      - failed
+      - aborted
+      - running
+
+capability:
+  workflows:
+    - name: Pre-Release Load Test
+      description: Run a scripted load test against a staging API before merging or releasing, with pass/fail thresholds on p95 latency and error rate
+      apis:
+        - k6
+        - apache-jmeter
+        - gatling
+        - artillery
+      personas:
+        - Performance Engineer
+        - Backend Engineer
+      domains:
+        - Load Testing
+    - name: Core Web Vitals Monitoring
+      description: Continuously measure LCP, INP, and CLS from real users and synthetic checks, and alert when a page degrades below the "good" threshold
+      apis:
+        - google-pagespeed
+        - datadog
+        - new-relic
+        - pingdom
+      personas:
+        - Web Performance Engineer
+      domains:
+        - Real User Monitoring
+        - Core Web Vitals
+    - name: Distributed Trace Investigation
+      description: Drill into a slow user request by following its distributed trace across services to find the span responsible for tail latency
+      apis:
+        - opentelemetry
+        - jaeger
+        - grafana-tempo
+        - honeycomb
+        - lightstep
+      personas:
+        - Site Reliability Engineer
+      domains:
+        - Distributed Tracing
+        - APM
+    - name: Traffic Replay Validation
+      description: Capture production traffic and replay it against a release candidate to detect performance and correctness regressions before deploy
+      apis:
+        - goreplay
+        - speedscale
+      personas:
+        - Performance Engineer
+        - Site Reliability Engineer
+      domains:
+        - Load Testing
+        - APM
+
+  personas:
+    - id: performance-engineer
+      name: Performance Engineer
+      description: Engineers who design and run load tests, define SLOs, and own performance budgets
+      workflows:
+        - Pre-Release Load Test
+        - Traffic Replay Validation
+    - id: web-performance-engineer
+      name: Web Performance Engineer
+      description: Front-end engineers focused on Core Web Vitals and real-user latency
+      workflows:
+        - Core Web Vitals Monitoring
+    - id: site-reliability-engineer
+      name: Site Reliability Engineer
+      description: SREs who own production reliability and use APM and tracing to investigate incidents and latency regressions
+      workflows:
+        - Distributed Trace Investigation
+        - Traffic Replay Validation
+    - id: backend-engineer
+      name: Backend Engineer
+      description: Service owners who consume load-test results to fix latency and throughput regressions
+      workflows:
+        - Pre-Release Load Test
+
+  domains:
+    - name: Load Testing
+      description: Synthetic generation of concurrent load against APIs and services to characterize latency, throughput, and error rate
+    - name: Real User Monitoring
+      description: Collection of latency, errors, and Web Vitals from real browser and mobile sessions in production
+    - name: Core Web Vitals
+      description: "Google's standardized user-experience metrics: LCP, INP, and CLS, plus supporting metrics like FCP and TTFB"
+    - name: APM
+      description: Application Performance Monitoring platforms that correlate traces, metrics, and logs to surface slow transactions
+    - name: Distributed Tracing
+      description: End-to-end tracing of requests across microservices, typically via OpenTelemetry
+
+crossReference:
+  - resource: load-test-runs
+    operations:
+      - create
+      - get
+      - compare
+      - abort
+    workflows:
+      - Pre-Release Load Test
+      - Traffic Replay Validation
+    personas:
+      - Performance Engineer
+      - Backend Engineer
+  - resource: web-vital-samples
+    operations:
+      - ingest
+      - aggregate
+      - list
+    workflows:
+      - Core Web Vitals Monitoring
+    personas:
+      - Web Performance Engineer
+  - resource: traces
+    operations:
+      - search
+      - get
+    workflows:
+      - Distributed Trace Investigation
+    personas:
+      - Site Reliability Engineer

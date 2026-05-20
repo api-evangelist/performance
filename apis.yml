@@ -1,0 +1,146 @@
+aid: performance
+name: Performance
+description: >-
+  An index and topic collection covering API and web performance, including load testing, performance benchmarking, real
+  user monitoring (RUM), Core Web Vitals measurement, latency profiling, distributed tracing, and application performance
+  monitoring (APM). Performance engineering ensures that APIs and web applications meet latency, throughput, and reliability
+  expectations under realistic and adversarial load. This collection brings together open-source load generators like k6,
+  Apache JMeter, Locust, Gatling, and Artillery; managed load and chaos platforms like StormForge and Speedscale; synthetic
+  and real-user measurement tools like Google PageSpeed, Pingdom, and Akamai; and APM and tracing platforms like Datadog,
+  New Relic, Dynatrace, AppDynamics, Sentry, Honeycomb, Instana, Lightstep, SigNoz, Uptrace, OpenTelemetry, Jaeger, Grafana
+  Tempo, Google Cloud Profiler, Google Cloud Trace, and AWS X-Ray.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Performance
+- Load Testing
+- Performance Testing
+- Real User Monitoring
+- Core Web Vitals
+- APM
+- Distributed Tracing
+- Latency
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: k6
+  url: https://raw.githubusercontent.com/api-evangelist/k6/refs/heads/main/apis.yml
+- name: Apache JMeter
+  url: https://raw.githubusercontent.com/api-evangelist/apache-jmeter/refs/heads/main/apis.yml
+- name: Locust
+  url: https://raw.githubusercontent.com/api-evangelist/locust/refs/heads/main/apis.yml
+- name: Gatling
+  url: https://raw.githubusercontent.com/api-evangelist/gatling/refs/heads/main/apis.yml
+- name: Artillery
+  url: https://raw.githubusercontent.com/api-evangelist/artillery/refs/heads/main/apis.yml
+- name: StormForge
+  url: https://raw.githubusercontent.com/api-evangelist/stormforge/refs/heads/main/apis.yml
+- name: Speedscale
+  url: https://raw.githubusercontent.com/api-evangelist/speedscale/refs/heads/main/apis.yml
+- name: GoReplay
+  url: https://raw.githubusercontent.com/api-evangelist/goreplay/refs/heads/main/apis.yml
+- name: Google PageSpeed
+  url: https://raw.githubusercontent.com/api-evangelist/google-pagespeed/refs/heads/main/apis.yml
+- name: Pingdom
+  url: https://raw.githubusercontent.com/api-evangelist/pingdom/refs/heads/main/apis.yml
+- name: Akamai
+  url: https://raw.githubusercontent.com/api-evangelist/akamai/refs/heads/main/apis.yml
+- name: Datadog
+  url: https://raw.githubusercontent.com/api-evangelist/datadog/refs/heads/main/apis.yml
+- name: New Relic
+  url: https://raw.githubusercontent.com/api-evangelist/new-relic/refs/heads/main/apis.yml
+- name: Dynatrace
+  url: https://raw.githubusercontent.com/api-evangelist/dynatrace/refs/heads/main/apis.yml
+- name: AppDynamics
+  url: https://raw.githubusercontent.com/api-evangelist/appdynamics/refs/heads/main/apis.yml
+- name: Instana
+  url: https://raw.githubusercontent.com/api-evangelist/instana/refs/heads/main/apis.yml
+- name: Sentry
+  url: https://raw.githubusercontent.com/api-evangelist/sentry/refs/heads/main/apis.yml
+- name: Honeycomb
+  url: https://raw.githubusercontent.com/api-evangelist/honeycomb/refs/heads/main/apis.yml
+- name: Lightstep
+  url: https://raw.githubusercontent.com/api-evangelist/lightstep/refs/heads/main/apis.yml
+- name: SigNoz
+  url: https://raw.githubusercontent.com/api-evangelist/signoz/refs/heads/main/apis.yml
+- name: Uptrace
+  url: https://raw.githubusercontent.com/api-evangelist/uptrace/refs/heads/main/apis.yml
+- name: OpenTelemetry
+  url: https://raw.githubusercontent.com/api-evangelist/opentelemetry/refs/heads/main/apis.yml
+- name: Jaeger
+  url: https://raw.githubusercontent.com/api-evangelist/jaeger/refs/heads/main/apis.yml
+- name: Grafana Tempo
+  url: https://raw.githubusercontent.com/api-evangelist/grafana-tempo/refs/heads/main/apis.yml
+- name: Google Cloud Profiler
+  url: https://raw.githubusercontent.com/api-evangelist/google-cloud-profiler/refs/heads/main/apis.yml
+- name: Google Cloud Trace
+  url: https://raw.githubusercontent.com/api-evangelist/google-cloud-trace/refs/heads/main/apis.yml
+- name: AWS X-Ray
+  url: https://raw.githubusercontent.com/api-evangelist/aws-x-ray/refs/heads/main/apis.yml
+- name: Grafana
+  url: https://raw.githubusercontent.com/api-evangelist/grafana/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Load and Stress Testing
+    description: Open-source and managed load generators like k6, Apache JMeter, Locust, Gatling, and Artillery simulate concurrent users and traffic patterns against APIs to characterize throughput, error rate, and latency under load.
+  - name: Performance Benchmarking
+    description: Repeatable, scripted benchmark runs establish performance baselines and detect regressions in CI/CD pipelines using tools like k6 Cloud, BlazeMeter, and StormForge.
+  - name: Real User Monitoring (RUM)
+    description: RUM products like Akamai mPulse, Datadog RUM, New Relic Browser, Sentry Performance, and Pingdom capture latency, errors, and Core Web Vitals from real browser sessions in production.
+  - name: Synthetic Monitoring and Web Vitals
+    description: Synthetic checks and lab-based audits from Google PageSpeed (Lighthouse), WebPageTest, and Pingdom measure Core Web Vitals (LCP, INP, CLS) and uptime from controlled environments.
+  - name: Distributed Tracing
+    description: OpenTelemetry, Jaeger, Grafana Tempo, Honeycomb, Lightstep, Google Cloud Trace, and AWS X-Ray collect distributed traces across microservice calls to attribute latency to specific spans.
+  - name: Application Performance Monitoring (APM)
+    description: APM platforms like Datadog APM, New Relic, Dynatrace, AppDynamics, Instana, SigNoz, and Uptrace correlate traces, metrics, and logs to surface slow transactions and code-level bottlenecks.
+  - name: Profiling and Code Hotspots
+    description: Continuous profilers like Google Cloud Profiler and Datadog Continuous Profiler identify CPU, memory, and lock contention hotspots in running services.
+  - name: Traffic Replay and Chaos
+    description: Tools like GoReplay and Speedscale capture production traffic and replay it against staging or new versions to validate performance and behavior before release.
+- type: UseCases
+  data:
+  - name: Pre-Release Load Testing in CI/CD
+    description: Engineering teams run k6 or JMeter scenarios on every pull request to verify that p95 latency and error rates stay within service-level objectives before merging.
+  - name: Core Web Vitals Optimization
+    description: Web teams use Google PageSpeed, WebPageTest, and RUM data to optimize LCP, INP, and CLS to meet Google ranking and user-experience thresholds.
+  - name: Capacity Planning and Scalability Validation
+    description: Platform teams use StormForge and BlazeMeter to drive sustained load tests against staging environments to determine maximum sustainable throughput and right-size infrastructure.
+  - name: Latency Regression Detection
+    description: APM platforms like Datadog, New Relic, and Dynatrace alert on p95 and p99 latency regressions per endpoint or trace span after each deploy.
+  - name: Production Traffic Replay
+    description: Teams use GoReplay or Speedscale to record real production traffic and replay it against release candidates to find performance and correctness regressions before rollout.
+  - name: Distributed Trace Root-Cause Analysis
+    description: SREs use Honeycomb, Lightstep, Jaeger, or Grafana Tempo to drill into slow distributed traces and pinpoint the service, query, or downstream call responsible for tail latency.
+  - name: Continuous Profiling of Hot Paths
+    description: Backend teams use Google Cloud Profiler or Datadog Continuous Profiler to identify CPU and memory hotspots in running services without rebuilding or redeploying.
+- type: Integrations
+  data:
+  - name: k6
+    description: Open-source Grafana Labs load testing tool that uses JavaScript test scripts to drive load against HTTP, gRPC, and WebSocket APIs, with optional k6 Cloud for distributed runs.
+  - name: Apache JMeter
+    description: Open-source Apache Software Foundation load testing tool for HTTP, REST, databases, JMS, and more, widely used for protocol-level performance testing.
+  - name: Gatling
+    description: High-throughput, Scala-based open-source load testing tool with code-as-test scenarios and detailed HTML reports.
+  - name: Artillery
+    description: Modern Node.js load testing toolkit with YAML and JavaScript scenarios, designed for serverless and Kubernetes-native workloads.
+  - name: StormForge
+    description: Performance and load testing platform that uses machine learning to optimize Kubernetes resource configurations and validate scalability.
+  - name: Datadog
+    description: Observability and APM platform offering distributed tracing, real user monitoring, synthetic monitoring, and continuous profiling.
+  - name: New Relic
+    description: Full-stack observability platform with APM, browser-based RUM, synthetic monitoring, distributed tracing, and infrastructure metrics.
+  - name: OpenTelemetry
+    description: Vendor-neutral CNCF standard for collecting traces, metrics, and logs, used to instrument applications for any compatible APM or tracing backend.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

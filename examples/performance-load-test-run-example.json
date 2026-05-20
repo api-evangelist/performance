@@ -1,0 +1,30 @@
+{
+  "id": "ltr_2026_05_19_checkout_p1",
+  "name": "Checkout API smoke + soak",
+  "tool": "k6",
+  "target_url": "https://api.example.com",
+  "scenario": {
+    "type": "load",
+    "virtual_users": 500,
+    "duration_seconds": 1800,
+    "ramp_up_seconds": 60
+  },
+  "started_at": "2026-05-19T14:00:00Z",
+  "finished_at": "2026-05-19T14:30:00Z",
+  "metrics": {
+    "requests_total": 1250000,
+    "requests_per_second": 694.4,
+    "error_rate": 0.0042,
+    "latency_ms": {
+      "p50": 84,
+      "p95": 312,
+      "p99": 740,
+      "max": 2890
+    }
+  },
+  "thresholds": [
+    { "metric": "latency_ms.p95", "operator": "<", "value": 500, "passed": true },
+    { "metric": "error_rate", "operator": "<", "value": 0.01, "passed": true }
+  ],
+  "status": "passed"
+}

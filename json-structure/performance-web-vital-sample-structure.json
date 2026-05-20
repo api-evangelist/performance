@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/json-structure/performance-web-vital-sample-structure.json",
+  "name": "WebVitalSample",
+  "description": "Represents a single Core Web Vitals measurement captured from a real user (RUM) or synthetic (lab) page load, including LCP, INP, CLS, FCP, and TTFB.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for this measurement sample.",
+      "example": "wvs_01HQ8K4F2N7E9P3M5S"
+    },
+    "page_url": {
+      "type": "uri",
+      "description": "URL of the page that was measured.",
+      "example": "https://www.example.com/checkout"
+    },
+    "captured_at": {
+      "type": "datetime",
+      "description": "ISO 8601 timestamp of when the sample was captured.",
+      "example": "2026-05-19T15:42:11Z"
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "rum",
+        "synthetic",
+        "lighthouse",
+        "lighthouse-ci",
+        "webpagetest",
+        "crux"
+      ],
+      "description": "Source of the measurement (real-user or lab/synthetic).",
+      "example": "rum"
+    },
+    "tool": {
+      "type": "string",
+      "description": "Tool or platform that produced the measurement.",
+      "example": "Datadog RUM"
+    },
+    "device": {
+      "type": "string",
+      "enum": [
+        "mobile",
+        "desktop",
+        "tablet"
+      ],
+      "description": "Device form factor.",
+      "example": "mobile"
+    },
+    "connection": {
+      "type": "string",
+      "enum": [
+        "4g",
+        "5g",
+        "3g",
+        "wifi",
+        "ethernet",
+        "slow-2g",
+        "2g",
+        "unknown"
+      ],
+      "description": "Effective network connection type at sample time.",
+      "example": "4g"
+    },
+    "country": {
+      "type": "string",
+      "description": "ISO 3166-1 alpha-2 country code of the user or test location.",
+      "example": "US"
+    },
+    "metrics": {
+      "type": "object",
+      "description": "Core Web Vitals and related performance metrics for this sample.",
+      "properties": {
+        "lcp_ms": {
+          "type": "double",
+          "description": "Largest Contentful Paint in milliseconds.",
+          "example": 2180
+        },
+        "inp_ms": {
+          "type": "double",
+          "description": "Interaction to Next Paint in milliseconds.",
+          "example": 145
+        },
+        "cls": {
+          "type": "double",
+          "description": "Cumulative Layout Shift (unitless).",
+          "example": 0.06
+        },
+        "fcp_ms": {
+          "type": "double",
+          "description": "First Contentful Paint in milliseconds.",
+          "example": 980
+        },
+        "ttfb_ms": {
+          "type": "double",
+          "description": "Time To First Byte in milliseconds.",
+          "example": 320
+        }
+      }
+    },
+    "ratings": {
+      "type": "object",
+      "description": "Per-metric Google Web Vitals ratings (good / needs-improvement / poor).",
+      "properties": {
+        "lcp": {
+          "type": "string",
+          "enum": ["good", "needs-improvement", "poor"],
+          "example": "good"
+        },
+        "inp": {
+          "type": "string",
+          "enum": ["good", "needs-improvement", "poor"],
+          "example": "good"
+        },
+        "cls": {
+          "type": "string",
+          "enum": ["good", "needs-improvement", "poor"],
+          "example": "good"
+        }
+      }
+    },
+    "session_id": {
+      "type": "string",
+      "description": "Opaque RUM session identifier (omitted for synthetic samples).",
+      "example": "sess_8f2e1a3c"
+    }
+  },
+  "required": [
+    "page_url",
+    "captured_at",
+    "source",
+    "metrics"
+  ]
+}

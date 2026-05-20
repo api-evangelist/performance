@@ -1,0 +1,23 @@
+{
+  "id": "wvs_01HQ8K4F2N7E9P3M5S",
+  "page_url": "https://www.example.com/checkout",
+  "captured_at": "2026-05-19T15:42:11Z",
+  "source": "rum",
+  "tool": "Datadog RUM",
+  "device": "mobile",
+  "connection": "4g",
+  "country": "US",
+  "metrics": {
+    "lcp_ms": 2180,
+    "inp_ms": 145,
+    "cls": 0.06,
+    "fcp_ms": 980,
+    "ttfb_ms": 320
+  },
+  "ratings": {
+    "lcp": "good",
+    "inp": "good",
+    "cls": "good"
+  },
+  "session_id": "sess_8f2e1a3c"
+}

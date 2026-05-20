@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/json-schema/performance-load-test-run-schema.json",
+  "title": "LoadTestRun",
+  "description": "Represents a single execution of a load or performance test against one or more API or web endpoints, including configuration, aggregate metrics, and pass/fail status.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the load test run.",
+      "example": "ltr_2026_05_19_checkout_p1"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the test scenario.",
+      "example": "Checkout API smoke + soak"
+    },
+    "tool": {
+      "type": "string",
+      "description": "Load testing tool used to execute the run.",
+      "enum": ["k6", "jmeter", "locust", "gatling", "artillery", "blazemeter", "neoload", "loadrunner", "stormforge", "speedscale", "goreplay", "other"],
+      "example": "k6"
+    },
+    "target_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Base URL of the system under test.",
+      "example": "https://api.example.com"
+    },
+    "scenario": {
+      "type": "object",
+      "description": "Load profile applied during the run.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["smoke", "load", "stress", "spike", "soak", "breakpoint"],
+          "example": "load"
+        },
+        "virtual_users": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Peak number of concurrent virtual users (VUs).",
+          "example": 500
+        },
+        "duration_seconds": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total duration of the test run in seconds.",
+          "example": 1800
+        },
+        "ramp_up_seconds": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Ramp-up duration before steady-state load.",
+          "example": 60
+        }
+      }
+    },
+    "started_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp at which the test started.",
+      "example": "2026-05-19T14:00:00Z"
+    },
+    "finished_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp at which the test finished.",
+      "example": "2026-05-19T14:30:00Z"
+    },
+    "metrics": {
+      "type": "object",
+      "description": "Aggregate metrics for the entire test run.",
+      "properties": {
+        "requests_total": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total number of requests sent during the run.",
+          "example": 1250000
+        },
+        "requests_per_second": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Average requests per second (throughput).",
+          "example": 694.4
+        },
+        "error_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Fraction of requests that failed (HTTP 5xx, timeouts, assertion failures).",
+          "example": 0.0042
+        },
+        "latency_ms": {
+          "type": "object",
+          "description": "Latency percentiles in milliseconds.",
+          "properties": {
+            "p50": { "type": "number", "minimum": 0, "example": 84 },
+            "p95": { "type": "number", "minimum": 0, "example": 312 },
+            "p99": { "type": "number", "minimum": 0, "example": 740 },
+            "max": { "type": "number", "minimum": 0, "example": 2890 }
+          }
+        }
+      }
+    },
+    "thresholds": {
+      "type": "array",
+      "description": "Pass/fail thresholds evaluated for this run.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "metric": { "type": "string", "example": "latency_ms.p95" },
+          "operator": { "type": "string", "enum": ["<", "<=", ">", ">=", "==", "!="], "example": "<" },
+          "value": { "type": "number", "example": 500 },
+          "passed": { "type": "boolean", "example": true }
+        },
+        "required": ["metric", "operator", "value", "passed"]
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["passed", "failed", "aborted", "running"],
+      "description": "Final status of the test run.",
+      "example": "passed"
+    }
+  },
+  "required": ["id", "tool", "target_url", "started_at", "status"]
+}
