@@ -1,0 +1,26 @@
+title: Performance
+description: An index and topic collection covering API and web performance, including
+  load testing, performance benchmarking, real user monitoring (RUM), Core Web Vitals
+  measurement, latency profiling, distributed tracing, and application performance
+  monitoring (APM). Performance engineering ensures that APIs and web applications
+  meet latency, throughput, and reliability expectations under realistic and adversarial
+  load. This collection brings together open-source load generators like k6, Apache
+  JMeter, Locust, Gatling, and Artillery; managed load and chaos platforms like StormForge
+  and Speedscale; synthetic and real-user measurement tools like Google PageSpeed,
+  Pingdom, and Akamai; and APM and tracing platforms like Datadog, New Relic, Dynatrace,
+  AppDynamics, Sentry, Honeycomb, Instana, Lightstep, SigNoz, Uptrace, OpenTelemetry,
+  Jaeger, Grafana Tempo, Google Cloud Profiler, Google Cloud Trace, and AWS X-Ray.
+url: https://performance.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
