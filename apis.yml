@@ -10,7 +10,7 @@ description: >-
   New Relic, Dynatrace, AppDynamics, Sentry, Honeycomb, Instana, Lightstep, SigNoz, Uptrace, OpenTelemetry, Jaeger, Grafana
   Tempo, Google Cloud Profiler, Google Cloud Trace, and AWS X-Ray.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Performance
 - Load Testing
