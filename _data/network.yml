@@ -1,0 +1,31 @@
+related:
+- name: Testing
+  url: https://testing.apievangelist.com
+  icon: https://testing.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API testing, mocking,
+    load testing, contract testing, and quality assurance. This collection covers functional…
+- name: Observability
+  url: https://observability.apievangelist.com
+  icon: https://observability.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API observability,
+    monitoring, logging, tracing, metrics, and analytics. This collection covers APM platforms,…
+- name: Browsers
+  url: https://browsers.apievangelist.com
+  icon: https://browsers.apievangelist.com/icon.png
+  description: An index and topic collection covering programmable browsers, headless browser engines,
+    and browser-automation APIs. The Browsers topic focuses on the browser execution surface —…
+- name: Breaches
+  url: https://breaches.apievangelist.com
+  icon: https://breaches.apievangelist.com/icon.png
+  description: An index and topic collection covering data breach intelligence, credential exposure databases,
+    dark-web monitoring, and leak detection APIs. Breach intelligence platforms…
+- name: Monitoring
+  url: https://monitoring.apievangelist.com
+  icon: https://monitoring.apievangelist.com/icon.png
+  description: An index and topic collection covering API monitoring, application performance monitoring,
+    observability, uptime monitoring, log aggregation, error tracking, distributed tracing,…
+- name: Microservices
+  url: https://microservices.apievangelist.com
+  icon: https://microservices.apievangelist.com/icon.png
+  description: An index of microservices architecture frameworks, service discovery, resilience, messaging,
+    workflow orchestration, and distributed systems tooling repositories.
