@@ -1,5 +1,6 @@
 aid: performance
 name: Performance
+kind: topic
 description: >-
   An index and topic collection covering API and web performance, including load testing, performance benchmarking, real
   user monitoring (RUM), Core Web Vitals measurement, latency profiling, distributed tracing, and application performance
