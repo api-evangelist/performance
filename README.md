@@ -1,121 +1,97 @@
-# Performance (performance)
+# Performance
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering API and web performance, including load testing, performance benchmarking, real user monitoring (RUM), Core Web Vitals measurement, latency profiling, distributed tracing, and application performance monitoring (APM). Performance engineering ensures that APIs and web applications meet latency, throughput, and reliability expectations under realistic and adversarial load. This collection brings together open-source load generators like k6, Apache JMeter, Locust, Gatling, and Artillery; managed load and chaos platforms like StormForge and Speedscale; synthetic and real-user measurement tools like Google PageSpeed, Pingdom, and Akamai; and APM and tracing platforms like Datadog, New Relic, Dynatrace, AppDynamics, Sentry, Honeycomb, Instana, Lightstep, SigNoz, Uptrace, OpenTelemetry, Jaeger, Grafana Tempo, Google Cloud Profiler, Google Cloud Trace, and AWS X-Ray.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Performance · Load Testing · Performance Testing · Real User Monitoring · Core Web Vitals · APM · Distributed Tracing · Latency
 
-## Tags:
+## Performance on APIs.io
 
- - Performance, Load Testing, Performance Testing, Real User Monitoring, Core Web Vitals, APM, Distributed Tracing, Latency
+Everything profiled for Performance is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/performance/](https://apis.io/providers/performance/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Load Test Run Schema](https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/json-schema/performance-load-test-run-schema.json)
-- [JSONSchema - Web Vital Sample Schema](https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/json-schema/performance-web-vital-sample-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/json-ld/performance-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/performance/refs/heads/main/vocabulary/performance-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Load and Stress Testing | Open-source and managed load generators like k6, Apache JMeter, Locust, Gatling, and Artillery simulate concurrent users and traffic patterns against APIs to characterize throughput, error rate, and latency under load. |
-| Performance Benchmarking | Repeatable, scripted benchmark runs establish performance baselines and detect regressions in CI/CD pipelines using tools like k6 Cloud, BlazeMeter, and StormForge. |
-| Real User Monitoring (RUM) | RUM products like Akamai mPulse, Datadog RUM, New Relic Browser, Sentry Performance, and Pingdom capture latency, errors, and Core Web Vitals from real browser sessions in production. |
-| Synthetic Monitoring and Web Vitals | Synthetic checks and lab-based audits from Google PageSpeed (Lighthouse), WebPageTest, and Pingdom measure Core Web Vitals (LCP, INP, CLS) and uptime from controlled environments. |
-| Distributed Tracing | OpenTelemetry, Jaeger, Grafana Tempo, Honeycomb, Lightstep, Google Cloud Trace, and AWS X-Ray collect distributed traces across microservice calls to attribute latency to specific spans. |
-| Application Performance Monitoring (APM) | APM platforms like Datadog APM, New Relic, Dynatrace, AppDynamics, Instana, SigNoz, and Uptrace correlate traces, metrics, and logs to surface slow transactions and code-level bottlenecks. |
-| Profiling and Code Hotspots | Continuous profilers like Google Cloud Profiler and Datadog Continuous Profiler identify CPU, memory, and lock contention hotspots in running services. |
-| Traffic Replay and Chaos | Tools like GoReplay and Speedscale capture production traffic and replay it against staging or new versions to validate performance and behavior before release. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Pre-Release Load Testing in CI/CD | Engineering teams run k6 or JMeter scenarios on every pull request to verify that p95 latency and error rates stay within service-level objectives before merging. |
-| Core Web Vitals Optimization | Web teams use Google PageSpeed, WebPageTest, and RUM data to optimize LCP, INP, and CLS to meet Google ranking and user-experience thresholds. |
-| Capacity Planning and Scalability Validation | Platform teams use StormForge and BlazeMeter to drive sustained load tests against staging environments to determine maximum sustainable throughput and right-size infrastructure. |
-| Latency Regression Detection | APM platforms like Datadog, New Relic, and Dynatrace alert on p95 and p99 latency regressions per endpoint or trace span after each deploy. |
-| Production Traffic Replay | Teams use GoReplay or Speedscale to record real production traffic and replay it against release candidates to find performance and correctness regressions before rollout. |
-| Distributed Trace Root-Cause Analysis | SREs use Honeycomb, Lightstep, Jaeger, or Grafana Tempo to drill into slow distributed traces and pinpoint the service, query, or downstream call responsible for tail latency. |
-| Continuous Profiling of Hot Paths | Backend teams use Google Cloud Profiler or Datadog Continuous Profiler to identify CPU and memory hotspots in running services without rebuilding or redeploying. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Performance: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| k6 | Open-source Grafana Labs load testing tool that uses JavaScript test scripts to drive load against HTTP, gRPC, and WebSocket APIs, with optional k6 Cloud for distributed runs. |
-| Apache JMeter | Open-source Apache Software Foundation load testing tool for HTTP, REST, databases, JMS, and more, widely used for protocol-level performance testing. |
-| Gatling | High-throughput, Scala-based open-source load testing tool with code-as-test scenarios and detailed HTML reports. |
-| Artillery | Modern Node.js load testing toolkit with YAML and JavaScript scenarios, designed for serverless and Kubernetes-native workloads. |
-| StormForge | Performance and load testing platform that uses machine learning to optimize Kubernetes resource configurations and validate scalability. |
-| Datadog | Observability and APM platform offering distributed tracing, real user monitoring, synthetic monitoring, and continuous profiling. |
-| New Relic | Full-stack observability platform with APM, browser-based RUM, synthetic monitoring, distributed tracing, and infrastructure metrics. |
-| OpenTelemetry | Vendor-neutral CNCF standard for collecting traces, metrics, and logs, used to instrument applications for any compatible APM or tracing backend. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Load Test Run Schema](json-schema/performance-load-test-run-schema.json)
-- [Web Vital Sample Schema](json-schema/performance-web-vital-sample-schema.json)
-
-### JSON Structure
-
-- [Load Test Run Structure](json-structure/performance-load-test-run-structure.json)
-- [Web Vital Sample Structure](json-structure/performance-web-vital-sample-structure.json)
-
-### JSON-LD
-
-- [Performance Context](json-ld/performance-context.jsonld)
-
-## Vocabulary
-
-- [Performance Vocabulary](vocabulary/performance-vocabulary.yaml) — Unified taxonomy mapping resources, actions, workflows, and personas across load testing, RUM, Core Web Vitals, and APM/tracing platforms
-
-## Network
-
-This index references the following API and web performance repositories:
-
-- [k6](https://github.com/api-evangelist/k6)
-- [Apache JMeter](https://github.com/api-evangelist/apache-jmeter)
-- [Locust](https://github.com/api-evangelist/locust)
-- [Gatling](https://github.com/api-evangelist/gatling)
-- [Artillery](https://github.com/api-evangelist/artillery)
-- [StormForge](https://github.com/api-evangelist/stormforge)
-- [Speedscale](https://github.com/api-evangelist/speedscale)
-- [GoReplay](https://github.com/api-evangelist/goreplay)
-- [Google PageSpeed](https://github.com/api-evangelist/google-pagespeed)
-- [Pingdom](https://github.com/api-evangelist/pingdom)
-- [Akamai](https://github.com/api-evangelist/akamai)
-- [Datadog](https://github.com/api-evangelist/datadog)
-- [New Relic](https://github.com/api-evangelist/new-relic)
-- [Dynatrace](https://github.com/api-evangelist/dynatrace)
-- [AppDynamics](https://github.com/api-evangelist/appdynamics)
-- [Instana](https://github.com/api-evangelist/instana)
-- [Sentry](https://github.com/api-evangelist/sentry)
-- [Honeycomb](https://github.com/api-evangelist/honeycomb)
-- [Lightstep](https://github.com/api-evangelist/lightstep)
-- [SigNoz](https://github.com/api-evangelist/signoz)
-- [Uptrace](https://github.com/api-evangelist/uptrace)
-- [OpenTelemetry](https://github.com/api-evangelist/opentelemetry)
-- [Jaeger](https://github.com/api-evangelist/jaeger)
-- [Grafana Tempo](https://github.com/api-evangelist/grafana-tempo)
-- [Google Cloud Profiler](https://github.com/api-evangelist/google-cloud-profiler)
-- [Google Cloud Trace](https://github.com/api-evangelist/google-cloud-trace)
-- [AWS X-Ray](https://github.com/api-evangelist/aws-x-ray)
-- [Grafana](https://github.com/api-evangelist/grafana)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/performance/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
